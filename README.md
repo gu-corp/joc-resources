@@ -1,1 +1,1 @@
-# joc-dashboard-resources
+# joc-resources
