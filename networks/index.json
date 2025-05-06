@@ -11,7 +11,8 @@
         "symbol": "JOC",
         "decimals": 18
       },
-      "blockExplorerUrls": ["https://mainnet.japanopenchain.org/api"]
+      "blockExplorerUrls": ["https://explorer.japanopenchain.org"],
+      "blockExplorerApiUrls": ["https://mainnet.japanopenchain.org/api"]
     },
     {
       "chainId": 10081,
