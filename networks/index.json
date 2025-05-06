@@ -1,0 +1,30 @@
+{
+  "timestamp": "2025-05-06T10:14:53.370Z",
+  "networks": [
+    {
+      "chainId": 81,
+      "chainName": "Japan Open Chain Mainnet",
+      "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/81"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/joc-resources/main/networks/assets/joc.svg"],
+      "nativeCurrency": {
+        "name": "Japan Open Chain Token",
+        "symbol": "JOC",
+        "decimals": 18
+      },
+      "blockExplorerUrls": ["https://mainnet.japanopenchain.org/api"]
+    },
+    {
+      "chainId": 10081,
+      "chainName": "Japan Open Chain Testnet",
+      "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/10081"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/joc-resources/main/networks/assets/joct.svg"],
+      "nativeCurrency": {
+        "name": "Japan Open Chain Testnet Token",
+        "symbol": "JOCT",
+        "decimals": 18
+      },
+      "blockExplorerUrls": ["https://explorer.testnet.japanopenchain.org/"],
+      "blockExplorerApiUrls": ["https://rpc-1.testnet.japanopenchain.org/api"]
+    }
+  ]
+}
