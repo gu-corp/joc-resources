@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-05-06T09:23:54.082Z",
+  "tokens": [
+    {
+      "chainId": 81,
+      "address": "0xe18e898E5843E8a8EA7A1C4AF08730DcA6689aA9",
+      "name": "USDTX",
+      "symbol": "USDTX",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/tokens/assets/usdtx.svg"
+    },
+    {
+      "chainId": 81,
+      "name": "JOC Coin",
+      "symbol": "JOC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/tokens/assets/joc.svg"
+    }
+  ]
+}
