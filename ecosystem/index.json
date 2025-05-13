@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-04-23T03:20:55.903Z",
+  "timestamp": "2025-05-13T04:31:39.062Z",
   "projects": [
     {
       "name": "Safe｛Wallet｝",
@@ -104,7 +104,7 @@
     {
       "name": "SUSHI TOP MARKETING",
       "description": {
-        "en": "SUSHI TOP MARKETING provides all necessary functions for NFT marketing, including the NFT solution 'NFT Shot (patent pending).'",
+        "en": "SUSHI TOP MARKETING provides all the essential features for NFT marketing, including its patented-pending NFT solution, 'NFT Shot.'",
         "ja": "SUSHI TOP MARKETINGは、NFTソリューション「NFT Shot（特許出願中）」を含む、NFTマーケティングに必要なすべての機能を提供します。"
       },
       "types": ["business", "nft"],
@@ -124,7 +124,7 @@
     {
       "name": "Gate.io",
       "description": {
-        "en": "Gate.io, established in 2013, is a veteran cryptocurrency exchange utilized in over 200 countries and regions.",
+        "en": "Gate.io is a long-established cryptocurrency exchange founded in 2013, available in over 200 countries and regions.",
         "ja": "Gate.ioは2013年に設立された、200以上の国と地域で利用されている老舗の仮想通貨取引所です。"
       },
       "types": ["exchange"],
@@ -414,8 +414,8 @@
     {
       "name": "NETHERMIND",
       "description": {
-        "en": "Nethermindは、企業や開発者をサポートするブロックチェーン研究およびソフトウェアエンジニアリングの会社です。",
-        "ja": "Nethermind is a blockchain research and software engineering company supporting companies and developers."
+        "en": "Nethermind is a blockchain research and software engineering company supporting companies and developers.",
+        "ja": "Nethermindは、企業や開発者をサポートするブロックチェーン研究およびソフトウェアエンジニアリングの会社です。"
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/nethermind-icon.svg",
