@@ -1,26 +1,6 @@
 {
-  "timestamp": "2025-05-13T04:31:39.062Z",
+  "timestamp": "2025-05-13T08:29:34.640Z",
   "projects": [
-    {
-      "name": "Safe｛Wallet｝",
-      "description": {
-        "en": "The most trusted decentralized custody protocol and collective asset management platform.",
-        "ja": "最も信頼されている分散型カストディプロトコルおよび共同資産管理プラットフォーム。"
-      },
-      "types": ["wallet"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/safe-wallet-icon.svg",
-      "url": "https://app.safe.global/"
-    },
-    {
-      "name": "X2Y2",
-      "description": {
-        "en": "X2Y2 is a decentralized marketplace built on the Ethereum blockchain for buying, selling, and loaning NFTs.",
-        "ja": "X2Y2は、Ethereumブロックチェーン上に構築された分散型マーケットプレイスで、NFTの売買や貸し出しが可能です。"
-      },
-      "types": ["nft"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/x2-y2-icon.svg",
-      "url": "https://x2y2.io/"
-    },
     {
       "name": "G.U. Wallet",
       "description": {
@@ -29,17 +9,19 @@
       },
       "types": ["wallet"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gu-wallet-icon.svg",
-      "url": "https://www.lunascape.org/en/wallet"
+      "url": "https://www.lunascape.org/en/wallet",
+      "onTop": true
     },
     {
-      "name": "Open Zeppelin",
+      "name": "Safe｛Wallet｝",
       "description": {
-        "en": "OpenZeppelin, established in 2015, offers industry standards for building, securing, and operating on-chain devtools.",
-        "ja": "OpenZeppelinは、2015年に設立され、オンチェーンアプリケーションの構築、セキュリティ確保、運用に関する業界標準を提供しています。"
+        "en": "The most trusted decentralized custody protocol and collective asset management platform.",
+        "ja": "最も信頼されている分散型カストディプロトコルおよび共同資産管理プラットフォーム。"
       },
-      "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/open-zepplin-icon.svg",
-      "url": "https://openzeppelin.com/"
+      "types": ["wallet"],
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/safe-wallet-icon.svg",
+      "url": "https://safe-wallet.gu.net/",
+      "onTop": true
     },
     {
       "name": "X2Y2 Pro",
@@ -49,7 +31,30 @@
       },
       "types": ["nft"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/x2-y2-pro-icon.svg",
-      "url": "https://pro.x2y2.io/"
+      "url": "https://pro.x2y2.io/joc/collections",
+      "onTop": true
+    },
+    {
+      "name": "Quick Node",
+      "description": {
+        "en": "QuickNode is a blockchain infrastructure company providing tools and resources supporting Web3 development.",
+        "ja": "QuickNodeは、Web3開発を支援するツールやリソースを提供するブロックチェーンインフラ企業です。"
+      },
+      "types": ["devtool"],
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/quick-node-icon.svg",
+      "url": "https://www.quicknode.com/chains/joc",
+      "onTop": true
+    },
+    {
+      "name": "Open Zeppelin",
+      "description": {
+        "en": "OpenZeppelin, established in 2015, offers industry standards for building, securing, and operating on-chain devtools.",
+        "ja": "OpenZeppelinは、2015年に設立され、オンチェーンアプリケーションの構築、セキュリティ確保、運用に関する業界標準を提供しています。"
+      },
+      "types": ["devtool"],
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/open-zepplin-icon.svg",
+      "url": "https://www.openzeppelin.com/defender",
+      "onTop": true
     },
     {
       "name": "The Graph",
@@ -62,16 +67,6 @@
       "url": "https://thegraph.com/"
     },
     {
-      "name": "Quick Node",
-      "description": {
-        "en": "QuickNode is a blockchain infrastructure company providing tools and resources supporting Web3 development.",
-        "ja": "QuickNodeは、Web3開発を支援するツールやリソースを提供するブロックチェーンインフラ企業です。"
-      },
-      "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/quick-node-icon.svg",
-      "url": "https://quicknode.com/"
-    },
-    {
       "name": "Thirdweb",
       "description": {
         "en": "Thirdweb is an open-source, full-stack development platform for Web3 devtools and games.",
@@ -79,7 +74,8 @@
       },
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/thirdweb-icon.svg",
-      "url": "https://thirdweb.com/"
+      "url": "https://thirdweb.com/japan-open-chain",
+      "onTop": true
     },
     {
       "name": "Supra",
@@ -119,7 +115,7 @@
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bit-trade-icon.svg",
-      "url": "https://www.bittrade.co.jp/ja-jp/"
+      "url": "https://www.bittrade.co.jp/ja-jp/exchange/joc_jpy/"
     },
     {
       "name": "Gate.io",
@@ -129,7 +125,7 @@
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gate-io-icon.svg",
-      "url": "https://gate.io/"
+      "url": "https://www.gate.io/trade/JOC_USDT"
     },
     {
       "name": "MEXC",
@@ -139,7 +135,7 @@
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/mexc-icon.svg",
-      "url": "https://www.mexc.com/"
+      "url": "https://www.mexc.com/exchange/JOC_USDT"
     },
     {
       "name": "LBANK",
@@ -149,7 +145,7 @@
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lbank-icon.svg",
-      "url": "https://www.lbank.com/"
+      "url": "https://www.lbank.com/trade/joc_usdt"
     },
     {
       "name": "XT",
@@ -159,7 +155,7 @@
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/xt-icon.svg",
-      "url": "https://www.xt.com/"
+      "url": "https://www.xt.com/en/trade/joc_usdt"
     },
     {
       "name": "BIT2ME",
@@ -169,7 +165,7 @@
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bit2me-icon.svg",
-      "url": "https://www.bit2me.com/"
+      "url": "https://bit2me.com/buy-japan-open-chain"
     },
     {
       "name": "BUNZZ",
@@ -290,36 +286,6 @@
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/layerzero-icon.svg",
       "url": "https://layerzero.network/"
-    },
-    {
-      "name": "ORIX Bank",
-      "description": {
-        "en": "ORIX Bank, as a member of the ORIX Group, is a bank providing unique financial services, catering to the diverse needs of its broad customer base.",
-        "ja": "ORIX銀行は、ORIXグループの一員として、幅広い顧客層の多様なニーズに対応するユニークな金融サービスを提供しています。"
-      },
-      "types": ["stable_coin"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/orix-bank-icon.svg",
-      "url": "https://www.orix.co.jp/grp/"
-    },
-    {
-      "name": "Shikoku Bank",
-      "description": {
-        "en": "Shikoku Bank, headquartered in Kochi Prefecture, is a regional bank supporting the economic development of the Shikoku region.",
-        "ja": "四国銀行は、高知県に本社を構える地域銀行で、四国地域の経済発展を支援しています。"
-      },
-      "types": ["stable_coin"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/shikoku-bank-icon.svg",
-      "url": "https://www.shikokubank.co.jp/"
-    },
-    {
-      "name": "Tokyo Kiraboshi FG",
-      "description": {
-        "en": "A financial group for small and medium enterprises and individual customers in the Tokyo metropolitan area.",
-        "ja": "東京きらぼしファイナンシャルグループは、東京都心部の中小企業および個人顧客向けの金融グループです。"
-      },
-      "types": ["stable_coin"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tokyo-kiraboshi-fg-icon.svg",
-      "url": "https://www.tokyo-kiraboshifg.co.jp/"
     },
     {
       "name": "Aozora Bank",
