@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-13T08:29:34.640Z",
+  "timestamp": "2025-05-14T04:29:53.610Z",
   "projects": [
     {
       "name": "G.U. Wallet",
@@ -10,7 +10,7 @@
       "types": ["wallet"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gu-wallet-icon.svg",
       "url": "https://www.lunascape.org/en/wallet",
-      "onTop": true
+      "tags": ["featured"]
     },
     {
       "name": "Safe｛Wallet｝",
@@ -21,7 +21,7 @@
       "types": ["wallet"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/safe-wallet-icon.svg",
       "url": "https://safe-wallet.gu.net/",
-      "onTop": true
+      "tags": ["featured"]
     },
     {
       "name": "X2Y2 Pro",
@@ -32,7 +32,7 @@
       "types": ["nft"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/x2-y2-pro-icon.svg",
       "url": "https://pro.x2y2.io/joc/collections",
-      "onTop": true
+      "tags": ["featured"]
     },
     {
       "name": "Quick Node",
@@ -43,7 +43,7 @@
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/quick-node-icon.svg",
       "url": "https://www.quicknode.com/chains/joc",
-      "onTop": true
+      "tags": ["featured"]
     },
     {
       "name": "Open Zeppelin",
@@ -54,7 +54,7 @@
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/open-zepplin-icon.svg",
       "url": "https://www.openzeppelin.com/defender",
-      "onTop": true
+      "tags": ["featured"]
     },
     {
       "name": "The Graph",
@@ -75,7 +75,7 @@
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/thirdweb-icon.svg",
       "url": "https://thirdweb.com/japan-open-chain",
-      "onTop": true
+      "tags": ["featured"]
     },
     {
       "name": "Supra",
