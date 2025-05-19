@@ -1,11 +1,11 @@
 {
-  "timestamp": "2025-05-15T08:18:31.428Z",
+  "timestamp": "2025-05-19T14:57:30.071Z",
   "projects": [
     {
       "name": "Lunascape",
       "description": {
         "en": "Secure, fast, and multifunctional browser with a standard Web3 wallet.",
-        "ja": "標準のWeb3ウォレットを搭載した、安全で高速かつ多機能なブラウザ。"
+        "ja": "標準のWeb3ウォレットを搭載した、安全で高速かつ多機能なブラウザです。"
       },
       "types": ["web3_browser"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lunascape-icon.svg",
@@ -24,10 +24,10 @@
       "tags": ["featured"]
     },
     {
-      "name": "Safe｛Wallet｝",
+      "name": "Safe{Wallet}",
       "description": {
         "en": "The most trusted decentralized custody protocol and collective asset management platform.",
-        "ja": "最も信頼されている分散型カストディプロトコルおよび共同資産管理プラットフォーム。"
+        "ja": "最も信頼されている分散型カストディプロトコルおよび共同資産管理プラットフォームです。"
       },
       "types": ["wallet"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/safe-wallet-icon.svg",
@@ -46,7 +46,7 @@
       "tags": ["featured"]
     },
     {
-      "name": "Quick Node",
+      "name": "QuickNode",
       "description": {
         "en": "QuickNode is a blockchain infrastructure company providing tools and resources supporting Web3 development.",
         "ja": "QuickNodeは、Web3開発を支援するツールやリソースを提供するブロックチェーンインフラ企業です。"
@@ -57,7 +57,7 @@
       "tags": ["featured"]
     },
     {
-      "name": "Open Zeppelin",
+      "name": "OpenZeppelin",
       "description": {
         "en": "OpenZeppelin, established in 2015, offers industry standards for building, securing, and operating on-chain devtools.",
         "ja": "OpenZeppelinは、2015年に設立され、オンチェーンアプリケーションの構築、セキュリティ確保、運用に関する業界標準を提供しています。"
@@ -100,8 +100,8 @@
     {
       "name": "SUSHI TOP MARKETING",
       "description": {
-        "en": "SUSHI TOP MARKETING provides all the essential features for NFT marketing, including its patented-pending NFT solution, 'NFT Shot.'",
-        "ja": "SUSHI TOP MARKETINGは、NFTソリューション「NFT Shot（特許出願中）」を含む、NFTマーケティングに必要なすべての機能を提供します。"
+        "en": "SUSHI TOP MARKETING provides all the essential features for NFT marketing, including the NFT solution “NFT Shot”.",
+        "ja": "SUSHI TOP MARKETINGは、NFTソリューション「NFT Shot」（特許取得済み）を含む、NFTマーケティングに必要なすべての機能を提供します。"
       },
       "types": ["business", "nft"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/sushi-top-marketing-icon.svg",
@@ -140,15 +140,15 @@
     {
       "name": "LBANK",
       "description": {
-        "en": "Lbank is a global cryptocurrency exchange offering spot trading and advanced financial services.",
-        "ja": "Lbankは、現物取引や高度な金融サービスを提供するグローバルな仮想通貨取引所です。"
+        "en": "LBank is a global cryptocurrency exchange offering spot trading and advanced financial services.",
+        "ja": "LBankは、現物取引や高度な金融サービスを提供するグローバルな仮想通貨取引所です。"
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lbank-icon.svg",
       "url": "https://www.lbank.com/trade/joc_usdt"
     },
     {
-      "name": "BIT2ME",
+      "name": "Bit2Me",
       "description": {
         "en": "Bit2Me is a cryptocurrency platform offering trading, wallets, and easy access to digital assets in Europe.",
         "ja": "Bit2Meは、ヨーロッパで取引、ウォレット、そしてデジタル資産への簡単なアクセスを提供する仮想通貨プラットフォームです。"
@@ -160,8 +160,8 @@
     {
       "name": "BUNZZ",
       "description": {
-        "en": "'Bunzz' is an infrastructure that allows for easy development of the 'smart contracts' essential for blockchain-related business systems.",
-        "ja": "「Bunzz」は、ブロックチェーン関連のビジネスシステムに不可欠な「スマートコントラクト」を簡単に開発できるインフラです。"
+        "en": "Bunzz is an infrastructure that allows for easy development of the 'smart contracts' essential for blockchain-related business systems.",
+        "ja": "Bunzzは、ブロックチェーン関連のビジネスシステムに不可欠な「スマートコントラクト」を簡単に開発できるインフラです。"
       },
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bunzz-icon.svg",
@@ -218,10 +218,10 @@
       "url": "https://www.ango-ya.org/"
     },
     {
-      "name": "De Manga",
+      "name": "DeManga",
       "description": {
         "en": "Staff Life Co., Ltd. offers DeManga, a digital comic platform known for its cutting-edge technology and creative content.",
-        "ja": "Staff Life株式会社は最先端の技術とクリエイティブなコンテンツで知られるデジタルコミックプラットフォーム「DeManga」を提供しています。"
+        "ja": "株式会社スタッフライフは最先端の技術とクリエイティブなコンテンツで知られるデジタルコミックプラットフォーム「DeManga」を提供しています。"
       },
       "types": ["nft"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/demanga-icon.svg",
@@ -238,7 +238,7 @@
       "url": "https://langdemy.com/"
     },
     {
-      "name": "LOOT a DOG",
+      "name": "LOOTaDOG",
       "description": {
         "en": "LOOTaDOG offers a walking app utilizing blockchain.",
         "ja": "LOOTaDOGは、ブロックチェーンを活用したウォーキングアプリを提供しています。"
@@ -291,7 +291,7 @@
       "name": "CAC",
       "description": {
         "en": "Developing products and services that positively impact the future of customers and society by leveraging blockchain and AI.",
-        "ja": "ブロックチェーンとAIを活用して、顧客と社会の未来に積極的な影響を与える製品とサービスを開発しています。"
+        "ja": "株式会社シーエーシーは株式会社シーエーシーはブロックチェーンとAIを活用して、顧客と社会の未来に積極的な影響を与える製品とサービスを開発しています。"
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/cac-icon.svg",
@@ -301,17 +301,17 @@
       "name": "CORGEAR",
       "description": {
         "en": "As a startup within the Sony Group, CORGEAR aims to achieve social innovation through solving community issues.",
-        "ja": "ソニーグループ内のスタートアップであるCORGEARは、地域社会の課題を解決することを通じて社会的変革を目指しています。"
+        "ja": "ソニーグループ内のスタートアップであるコーギア株式会社は、地域社会の課題を解決することを通じて社会的変革を目指しています。"
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/corgear-icon.svg",
       "url": "https://www.corgear.co.jp/"
     },
     {
-      "name": "CYBER LINKS",
+      "name": "CYBERLINKS",
       "description": {
         "en": "Cyberlinks provides safe, secure, high-quality, and cost-effective cloud services through 'Share Cloud', contributing to DX across the industry.",
-        "ja": "Cyberlinksは、「Share Cloud」を通じて、安全で高品質、かつコスト効果の高いクラウドサービスを提供し、業界全体のDXに貢献しています。"
+        "ja": "株式会社サイバーリンクスは「シェアクラウド」を通じて、安全で高品質、かつコスト効果の高いクラウドサービスを提供し、業界全体のDXに貢献しています。"
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/cyber-links-icon.svg",
@@ -321,7 +321,7 @@
       "name": "Dentsu Japan",
       "description": {
         "en": "Dentsu Inc. aims to contribute to the success of clients' brands and businesses by providing advertising and marketing services.",
-        "ja": "電通株式会社は広告およびマーケティングサービスを提供することで、クライアントのブランドやビジネスの成功への貢献を目指しています。"
+        "ja": "株式会社電通は広告およびマーケティングサービスを提供することで、クライアントのブランドやビジネスの成功への貢献を目指しています。"
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/dentsu-japan-icon.svg",
@@ -330,7 +330,7 @@
     {
       "name": "G.U. Technologies",
       "description": {
-        "en": "G.U. Technologies Co., Ltd. aims for a new era of digital revolution where finance and information converge via blockchain.",
+        "en": "G.U.Technologies, Inc. aims for a new era of digital revolution where finance and information converge via blockchain.",
         "ja": "G.U. Technologies株式会社は、ブロックチェーンを通じて金融と情報が融合する新たなデジタル革命の時代を目指しています。"
       },
       "types": ["validator"],
@@ -348,19 +348,19 @@
       "url": "https://hatena.co.jp/"
     },
     {
-      "name": "Insprout",
+      "name": "insprout",
       "description": {
-        "en": "Insprout Co., Ltd. focuses on creating the future through startup investments centered on IT, internet services, and system development.",
-        "ja": "Insprout株式会社は、IT、インターネットサービス、システム開発を中心に、スタートアップ投資を通じて未来を創造することに注力しています。"
+        "en": "insprout Co., Ltd. focuses on creating the future through startup investments centered on IT, internet services, and system development.",
+        "ja": "insprout株式会社は、IT、インターネットサービス、システム開発を中心に、スタートアップ投資を通じて未来を創造することに注力しています。"
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/insprout-icon.svg",
       "url": "https://insprout.com/"
     },
     {
-      "name": "Kudasai JP",
+      "name": "KudasaiJP",
       "description": {
-        "en": "Kudasai Co., Ltd., established in 2020 as KudasaiJP, is one of Japan's largest cryptocurrency communities.",
+        "en": "Kudasai Co., Ltd. established in 2020 as KudasaiJP, is one of Japan's largest cryptocurrency communities.",
         "ja": "株式会社Kudasaiは、2020年にKudasaiJPとして設立され、日本最大級の暗号通貨コミュニティの1つです。"
       },
       "types": ["validator"],
@@ -378,10 +378,10 @@
       "url": "https://www.nethermind.io/"
     },
     {
-      "name": "Pixiv",
+      "name": "pixiv",
       "description": {
-        "en": "Pixiv is a company providing platform content services that make creative activities enjoyable for creators worldwide.",
-        "ja": "Pixivは、世界中のクリエイターが創造的な活動を楽しめるようなプラットフォームコンテンツサービスを提供する会社です。"
+        "en": "pixiv is a company providing platform content services that make creative activities enjoyable for creators worldwide.",
+        "ja": "pixivは、世界中のクリエイターが創造的な活動を楽しめるようなプラットフォームコンテンツサービスを提供する会社です。"
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/pixiv-icon.svg",
@@ -410,8 +410,8 @@
     {
       "name": "TV asahi group",
       "description": {
-        "en": "Extra Mile Co., Ltd., part of the TV Asahi Group, aims to create new ideas and services that make life enjoyable and society convenient",
-        "ja": "Extra Mile株式会社はテレビ朝日グループとして、生活を楽しく社会を便利にする新しいアイデアとサービスを創造することを目指しています。"
+        "en": "extra mile Inc. part of the TV Asahi Group, aims to create new ideas and services that make life enjoyable and society convenient",
+        "ja": "extra mile株式会社はテレビ朝日グループとして、生活を楽しく社会を便利にする新しいアイデアとサービスを創造することを目指しています。"
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tv-asahi-icon.svg",

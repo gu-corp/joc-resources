@@ -1,9 +1,22 @@
-<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<rect x="0.666626" y="27.2002" width="64" height="9.6" fill="url(#pattern0_8385_51871)"/>
-<defs>
-<pattern id="pattern0_8385_51871" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_8385_51871" transform="scale(0.00333333 0.0222222)"/>
-</pattern>
-<image id="image0_8385_51871" width="300" height="45" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAAtCAYAAAAUVlZkAAAFJ0lEQVR4Ae2du6ocRxCGx7ENfgFfMM7EYejqDRwZlDqwQYHBfgtHAqNACqxAiS+pHfmCUwV2ogewBAbjB5BzpQosCUUSI4HO9ixT1V3d0zur8x0Y2DN9memav76p7qmdHYYYHw8xPjupbbd7b/D+xXhbHatIf1vsdh96h6O2CyGoY52u+273ttrHUqHIXbPvrelK5LOl4aj7Y7x5cmON8Tt1TCLvn+CYHg0AawZrgKXq/FUhwOp/Yyu7AQCszRCZCOsVN9QPRFgpVIiwzuVChDWLVMruBqmwrLbjeHZu+cJPTAlTWzMltAXElDDVjOWf65Wf6JRwHD+yVbZQA2Cl4gNYC0LZ2w2wUs2sByTrOADrYJrLGtaepyofWcOynOvY5axhHTj3sUhLhKWQZK+INawUGqxhnYuDNayua1hMCc+lt/wJYAGsJXWcMLAeGZHT1SGEy103kafqOZ2dvbt0Hcz9IVxX+xa533isn6vHm6LUcfzAPG9PhXWB9Zcxrh8b29HWoMj/xjl96jHjEMI3ar8if3cfq+WTObl9Vh+55THeM+zzexP7xPixnYcl8onrItc0ivGJaoAaYMX4ldq3yL81p37QdhzfUY83AStHXAcdZ+xYF1h64mgIX2ecYdsqMT5Ubb3elPBO24GcWG8x/qnaPYRb7UZkZboDrDpbA6w6+5W0Blgl1mpXF2ARYTVRExFWrzUsIiztARwRVsUaFlPC1InXysNiStjknnMSnVz4CGsc3xwuXXprcRuGN9wXEmABrFLx2ImjRFgXOsIqFVRJfYAFsEr0MtUFWLrFLnyEpZunrhRgAaxSBQEs3WIAS7dPVSnAAlilAgJYusUAlm6fqlKABbBKBQSwdIttClgx/jbEeGNTm/fJ1mT26U2M2gKhyIOmYw3hW/V407mI/GAc84qumIVS0hpSOHsTR61M9xj/M65fW/+peb3SglSqdm8MWOlF15y9V9nr9gI/226/ugQFsFLteoFlR1jpcezrWVdf5EuXHtZqBLCML1IDrDzpAawUDAArTzeltQAWwJpNI4mwcpzoeF/NScFIhJXao2um+9rG9/RPhJXjvsNAhJU6DhFWnm5KaxFhEWERYZV6zYsHKsd6W0MKRs9NuKQNa1gGIEqM2aMuEVaeNxNhpSAhwsrTTWktIiwDoAArT1IAC2DlKaWuVmdgXeuaQ2LndH0/mw6lopsiuDpg9c3Dssc75ej8o45Z5BeXogBWqh1vhEUeli6/rsDST6V/6fS6YGtaWQesvm8czbGgyE/GmHlKmGPH4z0l5G0Nms82fUqYI4SedQBWGhW8FALAytEgwMqxUvs6RFirrmERYe3fDb1fc7J+l5AX+LUHw1Z7BFgAazZFJMLKcVYirBwrta8DsAAWwHL4FcByGK1BE4AFsACWw5EAlsNoDZoALIAFsByOBLAcRmvQBGABLIDlcCSA5TBagyYAC2ABLIcjASyH0Ro06Qqs6ffqQ7i8mU3ki5mzHuYl1fxUfQjX1f5F7ne3RYx/GOf0s0tWZLqn2vFmutsv8CNxdD9VZv65aeKo9VP184Nv4f+6TPfbBhxSkW9hvDGS1pBDbCKsHCu1r9M5wnqsOvA2HDaFCMDKEx0RVqobIqw83ZTWAlirrmERYe3fhMh0t92TKaFuI4AFsGZRL1NC3WVeljIlzLFS+zoAC2ABLIdfASyH0Ro0AVgAC2A5HAlgOYzWoAnAAlgAy+FIAMthtAZNABbAAlgORwJYDqM1aNIRWM8BfOVGAgRtO5YAAAAASUVORK5CYII="/>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 432.13 64.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #003232;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <g>
+      <polygon class="cls-1" points="139.9 0 87.2 0 87.2 11.88 128.02 11.88 128.02 26.53 87.2 26.53 87.2 38.41 140.27 38.41 140.27 53.07 87.2 53.07 87.2 64.95 152.15 64.95 152.15 26.53 139.9 26.53 139.9 0"/>
+      <rect class="cls-1" x="87.2" width="11.88" height="64.95"/>
+      <rect class="cls-1" x="53.3" y="4.97" width="11.64" height="13.86"/>
+      <polygon class="cls-1" points="341.92 26.53 302.12 26.53 302.12 11.88 355.19 11.88 355.19 0 290.24 0 290.24 64.95 302.12 64.95 302.12 38.41 341.92 38.41 341.92 26.53"/>
+      <polygon class="cls-1" points="257.94 64.95 269.82 64.95 269.82 0 204.87 0 204.87 64.95 216.75 64.95 216.75 11.88 257.94 11.88 257.94 64.95"/>
+      <polygon class="cls-1" points="393.72 64.95 405.59 64.95 405.59 11.88 432.13 11.88 432.13 0 367.18 0 367.18 11.88 393.72 11.88 393.72 64.95"/>
+      <rect class="cls-1" x="172.57" width="11.88" height="64.95"/>
+      <polygon class="cls-1" points="53.07 53.07 0 53.07 0 64.95 64.95 64.95 64.95 26.54 11.88 26.54 11.88 11.88 64.95 11.88 64.95 0 0 0 0 38.41 53.07 38.41 53.07 53.07"/>
+    </g>
+  </g>
 </svg>
