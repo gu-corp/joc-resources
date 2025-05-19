@@ -148,6 +148,16 @@
       "url": "https://www.lbank.com/trade/joc_usdt"
     },
     {
+      "name": "XT",
+      "description": {
+        "en": "XT is a cryptocurrency exchange providing secure trading, staking, and financial services for digital assets.",
+        "ja": "XTは、安全な取引、ステーキング、デジタル資産向けの金融サービスを提供する仮想通貨取引所です。"
+      },
+      "types": ["exchange"],
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/xt-icon.svg",
+      "url": "https://www.xt.com/en/trade/joc_usdt"
+    },
+    {
       "name": "Bit2Me",
       "description": {
         "en": "Bit2Me is a cryptocurrency platform offering trading, wallets, and easy access to digital assets in Europe.",
