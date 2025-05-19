@@ -9,7 +9,10 @@
       },
       "types": ["web3_browser"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lunascape-icon.svg",
-      "url": "https://www.lunascape.org/",
+      "urls": {
+        "default": "https://www.lunascape.org/",
+        "mobile": "https://www.lunascape.org/browser/mobile"
+      },
       "tags": ["featured"]
     },
     {
@@ -20,7 +23,9 @@
       },
       "types": ["wallet"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gu-wallet-icon.svg",
-      "url": "https://www.lunascape.org/en/wallet",
+      "urls": {
+        "default": "https://www.lunascape.org/en/wallet"
+      },
       "tags": ["featured"]
     },
     {
@@ -31,7 +36,9 @@
       },
       "types": ["wallet"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/safe-wallet-icon.svg",
-      "url": "https://safe-wallet.gu.net/",
+      "urls": {
+        "default": "https://safe-wallet.gu.net/"
+      },
       "tags": ["featured"]
     },
     {
@@ -42,7 +49,9 @@
       },
       "types": ["nft"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/x2-y2-pro-icon.svg",
-      "url": "https://pro.x2y2.io/joc/collections",
+      "urls": {
+        "default": "https://pro.x2y2.io/joc/collections"
+      },
       "tags": ["featured"]
     },
     {
@@ -53,7 +62,9 @@
       },
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/quick-node-icon.svg",
-      "url": "https://www.quicknode.com/chains/joc",
+      "urls": {
+        "default": "https://www.quicknode.com/chains/joc"
+      },
       "tags": ["featured"]
     },
     {
@@ -64,7 +75,9 @@
       },
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/open-zepplin-icon.svg",
-      "url": "https://www.openzeppelin.com/defender"
+      "urls": {
+        "default": "https://www.openzeppelin.com/defender"
+      }
     },
     {
       "name": "The Graph",
@@ -74,7 +87,9 @@
       },
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/the-graph-icon.svg",
-      "url": "https://thegraph.com/"
+      "urls": {
+        "default": "https://thegraph.com/"
+      }
     },
     {
       "name": "Thirdweb",
@@ -84,7 +99,9 @@
       },
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/thirdweb-icon.svg",
-      "url": "https://thirdweb.com/japan-open-chain",
+      "urls": {
+        "default": "https://thirdweb.com/japan-open-chain"
+      },
       "tags": ["featured"]
     },
     {
@@ -95,7 +112,9 @@
       },
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/supra-icon.svg",
-      "url": "https://supra.com/"
+      "urls": {
+        "default": "https://supra.com/"
+      }
     },
     {
       "name": "SUSHI TOP MARKETING",
@@ -105,7 +124,9 @@
       },
       "types": ["business", "nft"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/sushi-top-marketing-icon.svg",
-      "url": "https://www.sushitopmarketing.com/"
+      "urls": {
+        "default": "https://www.sushitopmarketing.com/"
+      }
     },
     {
       "name": "BitTrade",
@@ -115,7 +136,9 @@
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bit-trade-icon.svg",
-      "url": "https://www.bittrade.co.jp/ja-jp/exchange/joc_jpy/"
+      "urls": {
+        "default": "https://www.bittrade.co.jp/ja-jp/exchange/joc_jpy/"
+      }
     },
     {
       "name": "Gate.io",
@@ -125,7 +148,9 @@
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gate-io-icon.svg",
-      "url": "https://www.gate.io/trade/JOC_USDT"
+      "urls": {
+        "default": "https://www.gate.io/trade/JOC_USDT"
+      }
     },
     {
       "name": "MEXC",
@@ -135,7 +160,9 @@
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/mexc-icon.svg",
-      "url": "https://www.mexc.com/exchange/JOC_USDT"
+      "urls": {
+        "default": "https://www.mexc.com/exchange/JOC_USDT"
+      }
     },
     {
       "name": "LBANK",
@@ -145,7 +172,9 @@
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lbank-icon.svg",
-      "url": "https://www.lbank.com/trade/joc_usdt"
+      "urls": {
+        "default": "https://www.lbank.com/trade/joc_usdt"
+      }
     },
     {
       "name": "BIT2ME",
@@ -155,7 +184,9 @@
       },
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bit2me-icon.svg",
-      "url": "https://bit2me.com/buy-japan-open-chain"
+      "urls": {
+        "default": "https://bit2me.com/buy-japan-open-chain"
+      }
     },
     {
       "name": "BUNZZ",
@@ -165,7 +196,9 @@
       },
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bunzz-icon.svg",
-      "url": "https://www.bunzz.dev/"
+      "urls": {
+        "default": "https://www.bunzz.dev/"
+      }
     },
     {
       "name": "Qubiod",
@@ -175,7 +208,9 @@
       },
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/qubiod-icon.svg",
-      "url": "https://qubo.id/"
+      "urls": {
+        "default": "https://qubo.id/"
+      }
     },
     {
       "name": "N Suite",
@@ -185,7 +220,9 @@
       },
       "types": ["business", "wallet"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/n-suite-icon.svg",
-      "url": "https://www.nsuite.io/"
+      "urls": {
+        "default": "https://www.nsuite.io/"
+      }
     },
     {
       "name": "NFT Garden",
@@ -195,7 +232,9 @@
       },
       "types": ["nft"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/nft-garden-icon.svg",
-      "url": "https://nftgarden.app/"
+      "urls": {
+        "default": "https://nftgarden.app/"
+      }
     },
     {
       "name": "VMO",
@@ -205,7 +244,9 @@
       },
       "types": ["business"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/vmo-icon.svg",
-      "url": "https://vmogroup.com/"
+      "urls": {
+        "default": "https://vmogroup.com/"
+      }
     },
     {
       "name": "暗号屋",
@@ -215,7 +256,9 @@
       },
       "types": ["business"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/angoya-icon.svg",
-      "url": "https://www.ango-ya.org/"
+      "urls": {
+        "default": "https://www.ango-ya.org/"
+      }
     },
     {
       "name": "De Manga",
@@ -225,7 +268,9 @@
       },
       "types": ["nft"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/demanga-icon.svg",
-      "url": "https://x.com/DeManga_jp"
+      "urls": {
+        "default": "https://x.com/DeManga_jp"
+      }
     },
     {
       "name": "Langdemy",
@@ -235,7 +280,9 @@
       },
       "types": ["business"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/langdemy-icon.svg",
-      "url": "https://langdemy.com/"
+      "urls": {
+        "default": "https://langdemy.com/"
+      }
     },
     {
       "name": "LOOT a DOG",
@@ -245,7 +292,9 @@
       },
       "types": ["nft"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lootadog-icon.svg",
-      "url": "https://lootadog.com/"
+      "urls": {
+        "default": "https://lootadog.com/"
+      }
     },
     {
       "name": "IoTrust",
@@ -255,7 +304,9 @@
       },
       "types": ["wallet"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/io-trust-icon.svg",
-      "url": "https://about-us-en.iotrust.kr/"
+      "urls": {
+        "default": "https://about-us-en.iotrust.kr/"
+      }
     },
     {
       "name": "FOX Wallet",
@@ -265,7 +316,9 @@
       },
       "types": ["wallet"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/fox-wallet-icon.svg",
-      "url": "https://foxwallet.com/"
+      "urls": {
+        "default": "https://foxwallet.com/"
+      }
     },
     {
       "name": "Layer ZERO",
@@ -275,17 +328,9 @@
       },
       "types": ["devtool"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/layerzero-icon.svg",
-      "url": "https://layerzero.network/"
-    },
-    {
-      "name": "Aozora Bank",
-      "description": {
-        "en": "Aozora Bank champions the creation of financial value and contributes to societal development.",
-        "ja": "あおぞら銀行は、金融価値の創造を推進し、社会の発展に貢献しています。"
-      },
-      "types": ["stable_coin"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/aozora-bank-icon.svg",
-      "url": "https://www.aozorabank.co.jp/"
+      "urls": {
+        "default": "https://layerzero.network/"
+      }
     },
     {
       "name": "CAC",
@@ -295,7 +340,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/cac-icon.svg",
-      "url": "https://www.cac.co.jp/"
+      "urls": {
+        "default": "https://www.cac.co.jp/"
+      }
     },
     {
       "name": "CORGEAR",
@@ -305,7 +352,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/corgear-icon.svg",
-      "url": "https://www.corgear.co.jp/"
+      "urls": {
+        "default": "https://www.corgear.co.jp/"
+      }
     },
     {
       "name": "CYBER LINKS",
@@ -315,7 +364,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/cyber-links-icon.svg",
-      "url": "https://www.cyber-l.co.jp/"
+      "urls": {
+        "default": "https://www.cyber-l.co.jp/"
+      }
     },
     {
       "name": "Dentsu Japan",
@@ -325,7 +376,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/dentsu-japan-icon.svg",
-      "url": "https://www.japan.dentsu.com/"
+      "urls": {
+        "default": "https://www.japan.dentsu.com/"
+      }
     },
     {
       "name": "G.U. Technologies",
@@ -335,7 +388,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gu-technologies-icon.svg",
-      "url": "https://www.gu-tech.com/"
+      "urls": {
+        "default": "https://www.gu-tech.com/"
+      }
     },
     {
       "name": "Hatena",
@@ -345,7 +400,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/hatena-icon.svg",
-      "url": "https://hatena.co.jp/"
+      "urls": {
+        "default": "https://hatena.co.jp/"
+      }
     },
     {
       "name": "Insprout",
@@ -355,7 +412,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/insprout-icon.svg",
-      "url": "https://insprout.com/"
+      "urls": {
+        "default": "https://insprout.com/"
+      }
     },
     {
       "name": "Kudasai JP",
@@ -365,7 +424,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/kudasai-jp-icon.svg",
-      "url": "https://kudasai.co.jp/"
+      "urls": {
+        "default": "https://kudasai.co.jp/"
+      }
     },
     {
       "name": "NETHERMIND",
@@ -375,7 +436,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/nethermind-icon.svg",
-      "url": "https://www.nethermind.io/"
+      "urls": {
+        "default": "https://www.nethermind.io/"
+      }
     },
     {
       "name": "Pixiv",
@@ -385,7 +448,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/pixiv-icon.svg",
-      "url": "https://www.pixiv.net/"
+      "urls": {
+        "default": "https://www.pixiv.net/"
+      }
     },
     {
       "name": "SBINFT",
@@ -395,7 +460,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/sbinft-icon.svg",
-      "url": "https://sbinft.market/"
+      "urls": {
+        "default": "https://sbinft.market/"
+      }
     },
     {
       "name": "TIS",
@@ -405,7 +472,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tis-icon.svg",
-      "url": "https://www.tis.com/group/"
+      "urls": {
+        "default": "https://www.tis.com/group/"
+      }
     },
     {
       "name": "TV asahi group",
@@ -415,7 +484,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tv-asahi-icon.svg",
-      "url": "https://company.tv-asahi.co.jp/"
+      "urls": {
+        "default": "https://company.tv-asahi.co.jp/"
+      }
     },
     {
       "name": "Kyoto University of the Arts",
@@ -425,7 +496,9 @@
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/kyoto-art-university-icon.svg",
-      "url": "https://www.kyoto-art.ac.jp/"
+      "urls": {
+        "default": "https://www.kyoto-art.ac.jp/"
+      }
     }
   ]
 }
