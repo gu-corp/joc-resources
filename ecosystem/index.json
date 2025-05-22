@@ -2,7 +2,10 @@
   "timestamp": "2025-05-19T14:57:30.071Z",
   "projects": [
     {
-      "name": "Lunascape",
+      "name": {
+        "en": "Lunascape",
+        "ja": "Lunascape"
+      },
       "description": {
         "en": "Secure, fast, and multifunctional browser with a standard Web3 wallet.",
         "ja": "標準のWeb3ウォレットを搭載した、安全で高速かつ多機能なブラウザです。"
@@ -13,7 +16,10 @@
       "tags": ["featured"]
     },
     {
-      "name": "G.U. Wallet",
+      "name": {
+        "en": "G.U. Wallet",
+        "ja": "G.U. Wallet"
+      },
       "description": {
         "en": "G.U. Wallet is a web3 wallet with safe and easy-to-use features for everyone.",
         "ja": "G.U. Walletは、誰でも安全かつ簡単に使える機能を備えたWeb3ウォレットです。"
@@ -24,7 +30,10 @@
       "tags": ["featured"]
     },
     {
-      "name": "Safe{Wallet}",
+      "name": {
+        "en": "Safe{Wallet}",
+        "ja": "Safe{Wallet}"
+      },
       "description": {
         "en": "The most trusted decentralized custody protocol and collective asset management platform.",
         "ja": "最も信頼されている分散型カストディプロトコルおよび共同資産管理プラットフォームです。"
@@ -35,7 +44,10 @@
       "tags": ["featured"]
     },
     {
-      "name": "X2Y2 Pro",
+      "name": {
+        "en": "X2Y2 Pro",
+        "ja": "X2Y2 Pro"
+      },
       "description": {
         "en": "X2Y2 Pro, launched in 2023, is a multi-chain NFT aggregator providing an intuitive UI/UX for pro traders, earning high regard in the NFT market.",
         "ja": "X2Y2 Proは、2023年にローンチされたマルチチェーンNFTアグリゲーターで、NFT市場で高い評価を得ています。"
@@ -46,7 +58,10 @@
       "tags": ["featured"]
     },
     {
-      "name": "QuickNode",
+      "name": {
+        "en": "QuickNode",
+        "ja": "QuickNode"
+      },
       "description": {
         "en": "QuickNode is a blockchain infrastructure company providing tools and resources supporting Web3 development.",
         "ja": "QuickNodeは、Web3開発を支援するツールやリソースを提供するブロックチェーンインフラ企業です。"
@@ -57,7 +72,10 @@
       "tags": ["featured"]
     },
     {
-      "name": "OpenZeppelin",
+      "name": {
+        "en": "OpenZeppelin",
+        "ja": "OpenZeppelin"
+      },
       "description": {
         "en": "OpenZeppelin, established in 2015, offers industry standards for building, securing, and operating on-chain devtools.",
         "ja": "OpenZeppelinは、2015年に設立され、オンチェーンアプリケーションの構築、セキュリティ確保、運用に関する業界標準を提供しています。"
@@ -67,7 +85,10 @@
       "url": "https://www.openzeppelin.com/defender"
     },
     {
-      "name": "The Graph",
+      "name": {
+        "en": "The Graph",
+        "ja": "The Graph"
+      },
       "description": {
         "en": "The Graph is a central existences for data and information on the decentralized internet.",
         "ja": "The Graphは、分散型インターネットにおけるデータと情報の中心的存在です。"
@@ -77,7 +98,10 @@
       "url": "https://thegraph.com/"
     },
     {
-      "name": "Thirdweb",
+      "name": {
+        "en": "Thirdweb",
+        "ja": "Thirdweb"
+      },
       "description": {
         "en": "Thirdweb is an open-source, full-stack development platform for Web3 devtools and games.",
         "ja": "Thirdwebは、Web3アプリケーションやゲームのためのオープンソースのフルスタック開発プラットフォームです。"
@@ -88,7 +112,10 @@
       "tags": ["featured"]
     },
     {
-      "name": "Supra",
+      "name": {
+        "en": "Supra",
+        "ja": "Supra"
+      },
       "description": {
         "en": "Supra aims at complete vertical integration with native oracle, dVRF, automation, cross-chain communication, and MultiVM support.",
         "ja": "Supraは、ネイティブオラクル、dVRF、自動化、クロスチェーン通信、MultiVMサポートを備えた完全な垂直統合を目指しています。"
@@ -98,7 +125,10 @@
       "url": "https://supra.com/"
     },
     {
-      "name": "SUSHI TOP MARKETING",
+      "name": {
+        "en": "SUSHI TOP MARKETING",
+        "ja": "SUSHI TOP MARKETING"
+      },
       "description": {
         "en": "SUSHI TOP MARKETING provides all the essential features for NFT marketing, including the NFT solution “NFT Shot”.",
         "ja": "SUSHI TOP MARKETINGは、NFTソリューション「NFT Shot」（特許取得済み）を含む、NFTマーケティングに必要なすべての機能を提供します。"
@@ -108,7 +138,10 @@
       "url": "https://www.sushitopmarketing.com/"
     },
     {
-      "name": "BitTrade",
+      "name": {
+        "en": "BitTrade",
+        "ja": "BitTrade"
+      },
       "description": {
         "en": "BitTrade is a cryptocurrency exchange registered with Japan’s Financial Services Agency(Only for those living in Japan).",
         "ja": "BitTradeは、金融庁登録済みの暗号資産交換業者として、国内取引銘柄数No1*と豊富な銘柄を取り揃えている暗号資産取引所です。"
@@ -118,7 +151,10 @@
       "url": "https://www.bittrade.co.jp/ja-jp/exchange/joc_jpy/"
     },
     {
-      "name": "Gate.io",
+      "name": {
+        "en": "Gate.io",
+        "ja": "Gate.io"
+      },
       "description": {
         "en": "Gate.io is a long-established cryptocurrency exchange founded in 2013, available in over 200 countries and regions.",
         "ja": "Gate.ioは2013年に設立された、200以上の国と地域で利用されている老舗の仮想通貨取引所です。"
@@ -128,7 +164,10 @@
       "url": "https://www.gate.io/trade/JOC_USDT"
     },
     {
-      "name": "MEXC",
+      "name": {
+        "en": "MEXC",
+        "ja": "MEXC"
+      },
       "description": {
         "en": "MEXC is a cryptocurrency exchange that enables users to buy, sell, and trade a wide variety of digital assets.",
         "ja": "MEXCは、ユーザーが多様なデジタル資産を売買・取引できる仮想通貨取引所です。"
@@ -138,7 +177,10 @@
       "url": "https://www.mexc.com/exchange/JOC_USDT"
     },
     {
-      "name": "LBANK",
+      "name": {
+        "en": "LBANK",
+        "ja": "LBANK"
+      },
       "description": {
         "en": "LBank is a global cryptocurrency exchange offering spot trading and advanced financial services.",
         "ja": "LBankは、現物取引や高度な金融サービスを提供するグローバルな仮想通貨取引所です。"
@@ -148,7 +190,10 @@
       "url": "https://www.lbank.com/trade/joc_usdt"
     },
     {
-      "name": "XT",
+      "name": {
+        "en": "XT",
+        "ja": "XT"
+      },
       "description": {
         "en": "XT is a cryptocurrency exchange providing secure trading, staking, and financial services for digital assets.",
         "ja": "XTは、安全な取引、ステーキング、デジタル資産向けの金融サービスを提供する仮想通貨取引所です。"
@@ -158,7 +203,10 @@
       "url": "https://www.xt.com/en/trade/joc_usdt"
     },
     {
-      "name": "Bit2Me",
+      "name": {
+        "en": "Bit2Me",
+        "ja": "Bit2Me"
+      },
       "description": {
         "en": "Bit2Me is a cryptocurrency platform offering trading, wallets, and easy access to digital assets in Europe.",
         "ja": "Bit2Meは、ヨーロッパで取引、ウォレット、そしてデジタル資産への簡単なアクセスを提供する仮想通貨プラットフォームです。"
@@ -168,7 +216,10 @@
       "url": "https://bit2me.com/buy-japan-open-chain"
     },
     {
-      "name": "BUNZZ",
+      "name": {
+        "en": "BUNZZ",
+        "ja": "BUNZZ"
+      },
       "description": {
         "en": "Bunzz is an infrastructure that allows for easy development of the 'smart contracts' essential for blockchain-related business systems.",
         "ja": "Bunzzは、ブロックチェーン関連のビジネスシステムに不可欠な「スマートコントラクト」を簡単に開発できるインフラです。"
@@ -178,7 +229,10 @@
       "url": "https://www.bunzz.dev/"
     },
     {
-      "name": "Qubiod",
+      "name": {
+        "en": "Qubiod",
+        "ja": "Qubiod"
+      },
       "description": {
         "en": "Quboid’s platform helps brands provide unique brand tokens, NFTs, and utilities to users as rewards.",
         "ja": "Quboidは、ブランドが独自のブランドトークン、NFT、ユーティリティをユーザーへの報酬として提供できるよう支援します。"
@@ -188,7 +242,10 @@
       "url": "https://qubo.id/"
     },
     {
-      "name": "N Suite",
+      "name": {
+        "en": "N Suite",
+        "ja": "N Suite"
+      },
       "description": {
         "en": "N Suite is a Web3 business software (SaaS) with a wallet feature for enterprises allowing for private key management for the security.",
         "ja": "N Suiteは、企業向けのウォレット機能を備えたWeb3ビジネスソフトウェア（SaaS）で、秘密鍵管理によるセキュリティを提供します。"
@@ -198,7 +255,10 @@
       "url": "https://www.nsuite.io/"
     },
     {
-      "name": "NFT Garden",
+      "name": {
+        "en": "NFT Garden",
+        "ja": "NFT Garden"
+      },
       "description": {
         "en": "NFT Garden is a multi-chain NFT generation platform for companies, developed and operated by Connectiv.",
         "ja": "NFT Gardenは、Connectivが開発・運営する企業向けのマルチチェーンNFT生成プラットフォームです。"
@@ -208,7 +268,10 @@
       "url": "https://nftgarden.app/"
     },
     {
-      "name": "VMO",
+      "name": {
+        "en": "VMO",
+        "ja": "VMO"
+      },
       "description": {
         "en": "VMO is an IT outsourcing company headquartered in Hanoi and operating globally. It supports over 500 projects worldwide.",
         "ja": "VMOは、ハノイに本社を構え、グローバルに展開するITアウトソーシング企業で、世界中で500以上のプロジェクトを支援しています。"
@@ -218,7 +281,10 @@
       "url": "https://vmogroup.com/"
     },
     {
-      "name": "暗号屋",
+      "name": {
+        "en": "暗号屋",
+        "ja": "暗号屋"
+      },
       "description": {
         "en": "Ango-ya is a technical organization created to generate and socially implement new economic activities enabled by blockchain technology.",
         "ja": "暗号屋は、ブロックチェーン技術によって可能になる新たな経済活動を創出し、社会実装することを目的とした技術組織です。"
@@ -228,7 +294,10 @@
       "url": "https://www.ango-ya.org/"
     },
     {
-      "name": "DeManga",
+      "name": {
+        "en": "DeManga",
+        "ja": "DeManga"
+      },
       "description": {
         "en": "Staff Life Co., Ltd. offers DeManga, a digital comic platform known for its cutting-edge technology and creative content.",
         "ja": "株式会社スタッフライフは最先端の技術とクリエイティブなコンテンツで知られるデジタルコミックプラットフォーム「DeManga」を提供しています。"
@@ -238,7 +307,10 @@
       "url": "https://x.com/DeManga_jp"
     },
     {
-      "name": "Langdemy",
+      "name": {
+        "en": "Langdemy",
+        "ja": "Langdemy"
+      },
       "description": {
         "en": "Langdemy Co., Ltd. offers robust blockchain, AI, and NFT solutions with over 100 engineers.",
         "ja": "Langdemy株式会社は、100人以上のエンジニアを擁し、強力なブロックチェーン、AI、NFTソリューションを提供しています。"
@@ -248,7 +320,10 @@
       "url": "https://langdemy.com/"
     },
     {
-      "name": "LOOTaDOG",
+      "name": {
+        "en": "LOOTaDOG",
+        "ja": "LOOTaDOG"
+      },
       "description": {
         "en": "LOOTaDOG offers a walking app utilizing blockchain.",
         "ja": "LOOTaDOGは、ブロックチェーンを活用したウォーキングアプリを提供しています。"
@@ -258,7 +333,10 @@
       "url": "https://lootadog.com/"
     },
     {
-      "name": "IoTrust",
+      "name": {
+        "en": "IoTrust",
+        "ja": "IoTrust"
+      },
       "description": {
         "en": "IoTrust is a company continuing innovation at the forefront of blockchain wallets.",
         "ja": "IoTrustは、ブロックチェーンウォレットの最前線で革新を続けている企業です。"
@@ -268,7 +346,10 @@
       "url": "https://about-us-en.iotrust.kr/"
     },
     {
-      "name": "FOX Wallet",
+      "name": {
+        "en": "FOX Wallet",
+        "ja": "FOX Wallet"
+      },
       "description": {
         "en": "FoxWallet is a multi-chain compatible cryptocurrency wallet. It supports major blockchains such as Ethereum.",
         "ja": "FoxWalletは、Ethereumなどの主要なブロックチェーンに対応したマルチチェーン対応の暗号通貨ウォレットです。"
@@ -278,7 +359,10 @@
       "url": "https://foxwallet.com/"
     },
     {
-      "name": "LayerZero",
+      "name": {
+        "en": "LayerZero",
+        "ja": "LayerZero"
+      },
       "description": {
         "en": "LayerZero is an omni-chain interoperability protocol enabling seamless data transfer and communication across over 100 blockchains.",
         "ja": "LayerZeroは、100以上のブロックチェーン間でシームレスなデータ転送と通信を可能にするオムニチェーン相互運用プロトコルです。"
@@ -288,7 +372,10 @@
       "url": "https://layerzero.network/"
     },
     {
-      "name": "Aozora Bank",
+      "name": {
+        "en": "Aozora Bank",
+        "ja": "Aozora Bank"
+      },
       "description": {
         "en": "Aozora Bank champions the creation of financial value and contributes to societal development.",
         "ja": "あおぞら銀行は、金融価値の創造を推進し、社会の発展に貢献しています。"
@@ -298,17 +385,23 @@
       "url": "https://www.aozorabank.co.jp/"
     },
     {
-      "name": "CAC",
+      "name": {
+        "en": "CAC",
+        "ja": "CAC"
+      },
       "description": {
         "en": "Developing products and services that positively impact the future of customers and society by leveraging blockchain and AI.",
-        "ja": "株式会社シーエーシーは株式会社シーエーシーはブロックチェーンとAIを活用して、顧客と社会の未来に積極的な影響を与える製品とサービスを開発しています。"
+        "ja": "株式会社シーエーシーはブロックチェーンとAIを活用して、顧客と社会の未来に積極的な影響を与える製品とサービスを開発しています。"
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/cac-icon.svg",
       "url": "https://www.cac.co.jp/"
     },
     {
-      "name": "CORGEAR",
+      "name": {
+        "en": "CORGEAR",
+        "ja": "CORGEAR"
+      },
       "description": {
         "en": "As a startup within the Sony Group, CORGEAR aims to achieve social innovation through solving community issues.",
         "ja": "ソニーグループ内のスタートアップであるコーギア株式会社は、地域社会の課題を解決することを通じて社会的変革を目指しています。"
@@ -318,7 +411,10 @@
       "url": "https://www.corgear.co.jp/"
     },
     {
-      "name": "CYBERLINKS",
+      "name": {
+        "en": "CYBERLINKS",
+        "ja": "CYBERLINKS"
+      },
       "description": {
         "en": "Cyberlinks provides safe, secure, high-quality, and cost-effective cloud services through 'Share Cloud', contributing to DX across the industry.",
         "ja": "株式会社サイバーリンクスは「シェアクラウド」を通じて、安全で高品質、かつコスト効果の高いクラウドサービスを提供し、業界全体のDXに貢献しています。"
@@ -328,7 +424,10 @@
       "url": "https://www.cyber-l.co.jp/"
     },
     {
-      "name": "Dentsu Japan",
+      "name": {
+        "en": "dentsu Japan",
+        "ja": "dentsu Japan"
+      },
       "description": {
         "en": "Dentsu Inc. aims to contribute to the success of clients' brands and businesses by providing advertising and marketing services.",
         "ja": "株式会社電通は広告およびマーケティングサービスを提供することで、クライアントのブランドやビジネスの成功への貢献を目指しています。"
@@ -338,7 +437,10 @@
       "url": "https://www.japan.dentsu.com/"
     },
     {
-      "name": "G.U. Technologies",
+      "name": {
+        "en": "G.U. Technologies",
+        "ja": "G.U. Technologies"
+      },
       "description": {
         "en": "G.U.Technologies, Inc. aims for a new era of digital revolution where finance and information converge via blockchain.",
         "ja": "G.U. Technologies株式会社は、ブロックチェーンを通じて金融と情報が融合する新たなデジタル革命の時代を目指しています。"
@@ -348,7 +450,10 @@
       "url": "https://www.gu-tech.com/"
     },
     {
-      "name": "Hatena",
+      "name": {
+        "en": "Hatena",
+        "ja": "Hatena"
+      },
       "description": {
         "en": "Hatena Co., Ltd. develops content platform services for users such as 'Hatena Blog' and 'Hatena Bookmark.'",
         "ja": "株式会社はてなは、「はてなブログ」や「はてなブックマーク」などのユーザー向けコンテンツプラットフォームサービスを開発しています。"
@@ -358,17 +463,23 @@
       "url": "https://hatena.co.jp/"
     },
     {
-      "name": "insprout",
+      "name": {
+        "en": "insprout",
+        "ja": "insprout"
+      },
       "description": {
         "en": "insprout Co., Ltd. focuses on creating the future through startup investments centered on IT, internet services, and system development.",
-        "ja": "insprout株式会社は、IT、インターネットサービス、システム開発を中心に、スタートアップ投資を通じて未来を創造することに注力しています。"
+        "ja": "株式会社insproutは、IT、インターネットサービス、システム開発を中心に、スタートアップ投資を通じて未来を創造することに注力しています。"
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/insprout-icon.svg",
       "url": "https://insprout.com/"
     },
     {
-      "name": "KudasaiJP",
+      "name": {
+        "en": "KudasaiJP",
+        "ja": "KudasaiJP"
+      },
       "description": {
         "en": "Kudasai Co., Ltd. established in 2020 as KudasaiJP, is one of Japan's largest cryptocurrency communities.",
         "ja": "株式会社Kudasaiは、2020年にKudasaiJPとして設立され、日本最大級の暗号通貨コミュニティの1つです。"
@@ -378,7 +489,10 @@
       "url": "https://kudasai.co.jp/"
     },
     {
-      "name": "NETHERMIND",
+      "name": {
+        "en": "NETHERMIND",
+        "ja": "NETHERMIND"
+      },
       "description": {
         "en": "Nethermind is a blockchain research and software engineering company supporting companies and developers.",
         "ja": "Nethermindは、企業や開発者をサポートするブロックチェーン研究およびソフトウェアエンジニアリングの会社です。"
@@ -388,7 +502,10 @@
       "url": "https://www.nethermind.io/"
     },
     {
-      "name": "pixiv",
+      "name": {
+        "en": "pixiv",
+        "ja": "pixiv"
+      },
       "description": {
         "en": "pixiv is a company providing platform content services that make creative activities enjoyable for creators worldwide.",
         "ja": "pixivは、世界中のクリエイターが創造的な活動を楽しめるようなプラットフォームコンテンツサービスを提供する会社です。"
@@ -398,7 +515,10 @@
       "url": "https://www.pixiv.net/"
     },
     {
-      "name": "SBINFT",
+      "name": {
+        "en": "SBINFT",
+        "ja": "SBINFT"
+      },
       "description": {
         "en": "SBINFT, a subsidiary of SBI Holdings, operates in the business domain of Web3 focused on NFTs.",
         "ja": "SBINFTは、SBIホールディングスの子会社で、NFTに焦点を当てたWeb3分野で事業を展開しています。"
@@ -408,7 +528,10 @@
       "url": "https://sbinft.market/"
     },
     {
-      "name": "TIS",
+      "name": {
+        "en": "TIS",
+        "ja": "TIS"
+      },
       "description": {
         "en": "TIS provides a wide range of offerings from core systems supporting business to devtools that generate high competitiveness.",
         "ja": "TISは、ビジネスを支えるコアシステムから、高い競争力を生み出すアプリケーションに至るまで、幅広い提供を行っています。"
@@ -418,9 +541,12 @@
       "url": "https://www.tis.com/group/"
     },
     {
-      "name": "TV asahi group",
+      "name": {
+        "en": "extra mile",
+        "ja": "extra mile"
+      },
       "description": {
-        "en": "extra mile Inc. part of the TV Asahi Group, aims to create new ideas and services that make life enjoyable and society convenient",
+        "en": "extra mile Inc. part of the TV asahi Group, aims to create new ideas and services that make life enjoyable and society convenient",
         "ja": "extra mile株式会社はテレビ朝日グループとして、生活を楽しく社会を便利にする新しいアイデアとサービスを創造することを目指しています。"
       },
       "types": ["validator"],
@@ -428,7 +554,10 @@
       "url": "https://company.tv-asahi.co.jp/"
     },
     {
-      "name": "Kyoto University of the Arts",
+      "name": {
+        "en": "Kyoto University of the Arts",
+        "ja": "学校法人 瓜生山学園 京都芸術大学"
+      },
       "description": {
         "en": "Straightforward art that loves nature and humanity. Kyoto University of the Arts is Japan's largest art university, with over 8,500 students.",
         "ja": "自然と人間を愛する、まっすぐな芸術を。京都芸術大学は学生数8500名を超える、日本で最も大きな芸術大学です。"
