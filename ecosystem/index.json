@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-19T14:57:30.071Z",
+  "timestamp": "2025-05-23T06:10:08.031Z",
   "projects": [
     {
       "name": {
@@ -504,11 +504,11 @@
     {
       "name": {
         "en": "pixiv",
-        "ja": "pixiv"
+        "ja": "ピクシブ"
       },
       "description": {
-        "en": "pixiv is a company providing platform content services that make creative activities enjoyable for creators worldwide.",
-        "ja": "pixivは、世界中のクリエイターが創造的な活動を楽しめるようなプラットフォームコンテンツサービスを提供する会社です。"
+        "en": "Mainly focusing on the posting platform “pixiv” for illustrations, manga and novels, we provide a variety of services to support creators around the world.",
+        "ja": "イラスト/マンガ/小説作品の投稿プラットフォーム「pixiv」を中心に、世界中のクリエイターを支援する様々なサービスを提供しています。"
       },
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/pixiv-icon.svg",
