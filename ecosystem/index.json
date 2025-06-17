@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-24T13:40:16.685Z",
+  "timestamp": "2025-06-17T01:50:39.511Z",
   "projects": [
     {
       "name": {
@@ -334,16 +334,16 @@
     },
     {
       "name": {
-        "en": "IoTrust",
-        "ja": "IoTrust"
+        "en": "D'CENT",
+        "ja": "D'CENT"
       },
       "description": {
-        "en": "IoTrust is a company continuing innovation at the forefront of blockchain wallets.",
-        "ja": "IoTrustは、ブロックチェーンウォレットの最前線で革新を続けている企業です。"
+        "en": "D’CENT is the world’s first biometric crypto wallet featuring fingerprint authentication. It uniquely combines hardware and software wallets to deliver robust security, asset growth potential, and seamless access to the Web3 ecosystem—all in one platform.",
+        "ja": "D’CENTは、指紋認証を備えた世界初の生体認証暗号資産ウォレットです。ハードウェアウォレットとソフトウェアウォレットを融合し、堅牢なセキュリティ、資産の成長可能性、そしてWeb3エコシステムへのシームレスなアクセスを1つのプラットフォームで実現します。"
       },
       "types": ["wallet"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/io-trust-icon.svg",
-      "url": "https://about-us-en.iotrust.kr/"
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/dcent-icon.svg",
+      "url": "https://www.dcentwallet.com/en"
     },
     {
       "name": {
