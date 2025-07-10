@@ -7,14 +7,14 @@
       "name": "USDTX",
       "symbol": "USDTX",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/tokens/assets/usdtx.svg"
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/joc-resources/test/tokens/assets/usdtx.svg"
     },
     {
       "chainId": 81,
       "name": "JOC Coin",
       "symbol": "JOC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/tokens/assets/joc.svg"
+      "logoURI": "https://raw.githubusercontent.com/gu-corp/joc-resources/test/tokens/assets/joc.svg"
     }
   ]
 }

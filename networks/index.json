@@ -5,7 +5,7 @@
       "chainId": 81,
       "chainName": "Japan Open Chain Mainnet",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/81"],
-      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/joc-resources/main/networks/assets/joc.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/joc-resources/test/assets/joc.svg"],
       "nativeCurrency": {
         "name": "Japan Open Chain Token",
         "symbol": "JOC",
@@ -18,7 +18,7 @@
       "chainId": 10081,
       "chainName": "Japan Open Chain Testnet",
       "rpcUrls": ["https://api.gu.net/v1/json-rpc/evm/10081"],
-      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/joc-resources/main/networks/assets/joct.svg"],
+      "iconUrls": ["https://raw.githubusercontent.com/gu-corp/joc-resources/test/assets/joct.svg"],
       "nativeCurrency": {
         "name": "Japan Open Chain Testnet Token",
         "symbol": "JOCT",
