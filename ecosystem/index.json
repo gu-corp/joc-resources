@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-05-24T13:40:16.685Z",
+  "timestamp": "2025-08-08T07:40:38.934Z",
   "projects": [
     {
       "name": {
@@ -11,7 +11,7 @@
         "ja": "標準のWeb3ウォレットを搭載した、安全で高速かつ多機能なブラウザです。"
       },
       "types": ["web3_browser"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lunascape-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/lunascape-icon.svg",
       "url": "https://www.lunascape.org/browser/mobile/",
       "tags": ["featured"]
     },
@@ -25,7 +25,7 @@
         "ja": "G.U. Walletは、誰でも安全かつ簡単に使える機能を備えたWeb3ウォレットです。"
       },
       "types": ["wallet"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gu-wallet-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/gu-wallet-icon.svg",
       "url": "https://www.lunascape.org/en/wallet",
       "tags": ["featured"]
     },
@@ -39,7 +39,7 @@
         "ja": "最も信頼されている分散型カストディプロトコルおよび共同資産管理プラットフォームです。"
       },
       "types": ["wallet"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/safe-wallet-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/safe-wallet-icon.svg",
       "url": "https://safe-wallet.gu.net/",
       "tags": ["featured"]
     },
@@ -53,7 +53,7 @@
         "ja": "X2Y2 Proは、2023年にローンチされたマルチチェーンNFTアグリゲーターで、NFT市場で高い評価を得ています。"
       },
       "types": ["nft"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/x2-y2-pro-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/x2-y2-pro-icon.svg",
       "url": "https://pro.x2y2.io/joc/collections",
       "tags": ["featured"]
     },
@@ -67,7 +67,7 @@
         "ja": "QuickNodeは、Web3開発を支援するツールやリソースを提供するブロックチェーンインフラ企業です。"
       },
       "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/quick-node-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/quick-node-icon.svg",
       "url": "https://www.quicknode.com/chains/joc",
       "tags": ["featured"]
     },
@@ -81,8 +81,8 @@
         "ja": "OpenZeppelinは、2015年に設立され、オンチェーンアプリケーションの構築、セキュリティ確保、運用に関する業界標準を提供しています。"
       },
       "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/open-zepplin-icon.svg",
-      "url": "https://www.openzeppelin.com/defender"
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/open-zepplin-icon.svg",
+      "url": "https://defender.openzeppelin.com"
     },
     {
       "name": {
@@ -94,7 +94,7 @@
         "ja": "The Graphは、分散型インターネットにおけるデータと情報の中心的存在です。"
       },
       "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/the-graph-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/the-graph-icon.svg",
       "url": "https://thegraph.com/"
     },
     {
@@ -107,7 +107,7 @@
         "ja": "Thirdwebは、Web3アプリケーションやゲームのためのオープンソースのフルスタック開発プラットフォームです。"
       },
       "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/thirdweb-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/thirdweb-icon.svg",
       "url": "https://thirdweb.com/japan-open-chain",
       "tags": ["featured"]
     },
@@ -121,7 +121,7 @@
         "ja": "Supraは、ネイティブオラクル、dVRF、自動化、クロスチェーン通信、MultiVMサポートを備えた完全な垂直統合を目指しています。"
       },
       "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/supra-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/supra-icon.svg",
       "url": "https://supra.com/"
     },
     {
@@ -134,7 +134,7 @@
         "ja": "SUSHI TOP MARKETINGは、NFTソリューション「NFT Shot」（特許取得済み）を含む、NFTマーケティングに必要なすべての機能を提供します。"
       },
       "types": ["business", "nft"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/sushi-top-marketing-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/sushi-top-marketing-icon.svg",
       "url": "https://www.sushitopmarketing.com/"
     },
     {
@@ -147,7 +147,7 @@
         "ja": "BitTradeは、金融庁登録済みの暗号資産交換業者として、国内取引銘柄数No1*と豊富な銘柄を取り揃えている暗号資産取引所です。"
       },
       "types": ["exchange"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bit-trade-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/bit-trade-icon.svg",
       "url": "https://www.bittrade.co.jp/ja-jp/exchange/joc_jpy/"
     },
     {
@@ -160,7 +160,7 @@
         "ja": "Gate.ioは2013年に設立された、200以上の国と地域で利用されている老舗の仮想通貨取引所です。"
       },
       "types": ["exchange"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gate-io-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/gate-io-icon.svg",
       "url": "https://www.gate.io/trade/JOC_USDT"
     },
     {
@@ -173,34 +173,34 @@
         "ja": "MEXCは、ユーザーが多様なデジタル資産を売買・取引できる仮想通貨取引所です。"
       },
       "types": ["exchange"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/mexc-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/mexc-icon.svg",
       "url": "https://www.mexc.com/exchange/JOC_USDT"
     },
     {
       "name": {
-        "en": "LBANK",
-        "ja": "LBANK"
+        "en": "X-GATE",
+        "ja": "X-GATE"
       },
       "description": {
-        "en": "LBank is a global cryptocurrency exchange offering spot trading and advanced financial services.",
-        "ja": "LBankは、現物取引や高度な金融サービスを提供するグローバルな仮想通貨取引所です。"
+        "en": "X-Gate is a DeFi service that allows for the Send, Mint, and Burn of cross-chain tokens like JOCX and USDTX across multiple networks, as well as the original base tokens such as JOC and USDT.",
+        "ja": "X-Gateとは、JOCX、USDTXなどクロスチェーントークンの複数ネットワーク間のSend、Mint、およびJOC、USDTなど元のベーストークンへのBurnを行うことができるDeFiサービスです。"
       },
       "types": ["exchange"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lbank-icon.svg",
-      "url": "https://www.lbank.com/trade/joc_usdt"
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/x-gate-icon.svg",
+      "url": "https://www.x-gate.org/send"
     },
     {
       "name": {
-        "en": "XT",
-        "ja": "XT"
+        "en": "X-SWAP",
+        "ja": "X-SWAP"
       },
       "description": {
-        "en": "XT is a cryptocurrency exchange providing secure trading, staking, and financial services for digital assets.",
-        "ja": "XTは、安全な取引、ステーキング、デジタル資産向けの金融サービスを提供する仮想通貨取引所です。"
+        "en": "X-Swap is a decentralized exchange (DEX) that supports multiple networks, including Ethereum and Japan Open Chain. It allows for swaps between different cryptocurrencies or the creation of token pair pools through smart contracts.",
+        "ja": "X-Swapとは、Ethereum、Japan Open Chainなどの複数のネットワークに対応しているDEX (分散型取引所) です。スマートコントラクトを通じて異なる暗号資産間のSwap、またはトークンペアのPoolを行うことができます。"
       },
       "types": ["exchange"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/xt-icon.svg",
-      "url": "https://www.xt.com/en/trade/joc_usdt"
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/x-swap-icon.svg",
+      "url": "https://www.x-swap.org/#/swap"
     },
     {
       "name": {
@@ -212,7 +212,7 @@
         "ja": "Bit2Meは、ヨーロッパで取引、ウォレット、そしてデジタル資産への簡単なアクセスを提供する仮想通貨プラットフォームです。"
       },
       "types": ["exchange"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bit2me-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/bit2me-icon.svg",
       "url": "https://bit2me.com/buy-japan-open-chain"
     },
     {
@@ -225,7 +225,7 @@
         "ja": "Bunzzは、ブロックチェーン関連のビジネスシステムに不可欠な「スマートコントラクト」を簡単に開発できるインフラです。"
       },
       "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bunzz-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/bunzz-icon.svg",
       "url": "https://www.bunzz.dev/"
     },
     {
@@ -238,7 +238,7 @@
         "ja": "Quboidは、ブランドが独自のブランドトークン、NFT、ユーティリティをユーザーへの報酬として提供できるよう支援します。"
       },
       "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/qubiod-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/qubiod-icon.svg",
       "url": "https://qubo.id/"
     },
     {
@@ -251,7 +251,7 @@
         "ja": "N Suiteは、企業向けのウォレット機能を備えたWeb3ビジネスソフトウェア（SaaS）で、秘密鍵管理によるセキュリティを提供します。"
       },
       "types": ["business", "wallet"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/n-suite-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/n-suite-icon.svg",
       "url": "https://www.nsuite.io/"
     },
     {
@@ -264,7 +264,7 @@
         "ja": "NFT Gardenは、Connectivが開発・運営する企業向けのマルチチェーンNFT生成プラットフォームです。"
       },
       "types": ["nft"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/nft-garden-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/nft-garden-icon.svg",
       "url": "https://nftgarden.app/"
     },
     {
@@ -277,7 +277,7 @@
         "ja": "VMOは、ハノイに本社を構え、グローバルに展開するITアウトソーシング企業で、世界中で500以上のプロジェクトを支援しています。"
       },
       "types": ["business"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/vmo-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/vmo-icon.svg",
       "url": "https://vmogroup.com/"
     },
     {
@@ -290,7 +290,7 @@
         "ja": "暗号屋は、ブロックチェーン技術によって可能になる新たな経済活動を創出し、社会実装することを目的とした技術組織です。"
       },
       "types": ["business"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/angoya-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/angoya-icon.svg",
       "url": "https://www.ango-ya.org/"
     },
     {
@@ -303,7 +303,7 @@
         "ja": "株式会社スタッフライフは最先端の技術とクリエイティブなコンテンツで知られるデジタルコミックプラットフォーム「DeManga」を提供しています。"
       },
       "types": ["nft"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/demanga-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/demanga-icon.svg",
       "url": "https://x.com/DeManga_jp"
     },
     {
@@ -316,7 +316,7 @@
         "ja": "Langdemy株式会社は、100人以上のエンジニアを擁し、強力なブロックチェーン、AI、NFTソリューションを提供しています。"
       },
       "types": ["business"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/langdemy-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/langdemy-icon.svg",
       "url": "https://langdemy.com/"
     },
     {
@@ -329,21 +329,21 @@
         "ja": "LOOTaDOGは、ブロックチェーンを活用したウォーキングアプリを提供しています。"
       },
       "types": ["nft"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lootadog-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/lootadog-icon.svg",
       "url": "https://lootadog.com/"
     },
     {
       "name": {
-        "en": "IoTrust",
-        "ja": "IoTrust"
+        "en": "D'CENT",
+        "ja": "D'CENT"
       },
       "description": {
-        "en": "IoTrust is a company continuing innovation at the forefront of blockchain wallets.",
-        "ja": "IoTrustは、ブロックチェーンウォレットの最前線で革新を続けている企業です。"
+        "en": "D’CENT is the world’s first biometric crypto wallet featuring fingerprint authentication. It uniquely combines hardware and software wallets to deliver robust security, asset growth potential, and seamless access to the Web3 ecosystem—all in one platform.",
+        "ja": "D’CENTは、指紋認証を備えた世界初の生体認証暗号資産ウォレットです。ハードウェアウォレットとソフトウェアウォレットを融合し、堅牢なセキュリティ、資産の成長可能性、そしてWeb3エコシステムへのシームレスなアクセスを1つのプラットフォームで実現します。"
       },
       "types": ["wallet"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/io-trust-icon.svg",
-      "url": "https://about-us-en.iotrust.kr/"
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/dcent-icon.svg",
+      "url": "https://www.dcentwallet.com/en"
     },
     {
       "name": {
@@ -355,7 +355,7 @@
         "ja": "FoxWalletは、Ethereumなどの主要なブロックチェーンに対応したマルチチェーン対応の暗号通貨ウォレットです。"
       },
       "types": ["wallet"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/fox-wallet-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/fox-wallet-icon.svg",
       "url": "https://foxwallet.com/"
     },
     {
@@ -368,7 +368,7 @@
         "ja": "LayerZeroは、100以上のブロックチェーン間でシームレスなデータ転送と通信を可能にするオムニチェーン相互運用プロトコルです。"
       },
       "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/layerzero-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/layerzero-icon.svg",
       "url": "https://layerzero.network/"
     },
     {
@@ -381,7 +381,7 @@
         "ja": "あおぞら銀行は、金融価値の創造を推進し、社会の発展に貢献しています。"
       },
       "types": ["stable_coin"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/aozora-bank-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/aozora-bank-icon.svg",
       "url": "https://www.aozorabank.co.jp/"
     },
     {
@@ -394,21 +394,8 @@
         "ja": "株式会社シーエーシーはブロックチェーンとAIを活用して、顧客と社会の未来に積極的な影響を与える製品とサービスを開発しています。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/cac-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/cac-icon.svg",
       "url": "https://www.cac.co.jp/"
-    },
-    {
-      "name": {
-        "en": "CORGEAR",
-        "ja": "CORGEAR"
-      },
-      "description": {
-        "en": "As a startup within the Sony Group, CORGEAR aims to achieve social innovation through solving community issues.",
-        "ja": "ソニーグループ内のスタートアップであるコーギア株式会社は、地域社会の課題を解決することを通じて社会的変革を目指しています。"
-      },
-      "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/corgear-icon.svg",
-      "url": "https://www.corgear.co.jp/"
     },
     {
       "name": {
@@ -420,7 +407,7 @@
         "ja": "株式会社サイバーリンクスは「シェアクラウド」を通じて、安全で高品質、かつコスト効果の高いクラウドサービスを提供し、業界全体のDXに貢献しています。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/cyber-links-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/cyber-links-icon.svg",
       "url": "https://www.cyber-l.co.jp/"
     },
     {
@@ -433,7 +420,7 @@
         "ja": "株式会社電通は広告およびマーケティングサービスを提供することで、クライアントのブランドやビジネスの成功への貢献を目指しています。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/dentsu-japan-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/dentsu-japan-icon.svg",
       "url": "https://www.japan.dentsu.com/"
     },
     {
@@ -446,7 +433,7 @@
         "ja": "G.U. Technologies株式会社は、ブロックチェーンを通じて金融と情報が融合する新たなデジタル革命の時代を目指しています。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gu-technologies-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/gu-technologies-icon.svg",
       "url": "https://www.gu-tech.com/"
     },
     {
@@ -459,7 +446,7 @@
         "ja": "株式会社はてなは、「はてなブログ」や「はてなブックマーク」などのユーザー向けコンテンツプラットフォームサービスを開発しています。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/hatena-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/hatena-icon.svg",
       "url": "https://hatena.co.jp/"
     },
     {
@@ -472,7 +459,7 @@
         "ja": "株式会社insproutは、IT、インターネットサービス、システム開発を中心に、スタートアップ投資を通じて未来を創造することに注力しています。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/insprout-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/insprout-icon.svg",
       "url": "https://insprout.com/"
     },
     {
@@ -485,7 +472,7 @@
         "ja": "株式会社Kudasaiは、2020年にKudasaiJPとして設立され、日本最大級の暗号通貨コミュニティの1つです。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/kudasai-jp-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/kudasai-jp-icon.svg",
       "url": "https://kudasai.co.jp/"
     },
     {
@@ -498,7 +485,7 @@
         "ja": "Nethermindは、企業や開発者をサポートするブロックチェーン研究およびソフトウェアエンジニアリングの会社です。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/nethermind-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/nethermind-icon.svg",
       "url": "https://www.nethermind.io/"
     },
     {
@@ -511,7 +498,7 @@
         "ja": "イラスト/マンガ/小説作品の投稿プラットフォーム「pixiv」を中心に、世界中のクリエイターを支援する様々なサービスを提供しています。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/pixiv-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/pixiv-icon.svg",
       "url": "https://www.pixiv.net/"
     },
     {
@@ -524,7 +511,7 @@
         "ja": "SBINFTは、SBIホールディングスの子会社で、NFTに焦点を当てたWeb3分野で事業を展開しています。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/sbinft-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/sbinft-icon.svg",
       "url": "https://sbinft.market/"
     },
     {
@@ -537,7 +524,7 @@
         "ja": "TISは、ビジネスを支えるコアシステムから、高い競争力を生み出すアプリケーションに至るまで、幅広い提供を行っています。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tis-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/tis-icon.svg",
       "url": "https://www.tis.com/group/"
     },
     {
@@ -550,7 +537,7 @@
         "ja": "extra mile株式会社はテレビ朝日グループとして、生活を楽しく社会を便利にする新しいアイデアとサービスを創造することを目指しています。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tv-asahi-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/tv-asahi-icon.svg",
       "url": "https://company.tv-asahi.co.jp/"
     },
     {
@@ -563,7 +550,7 @@
         "ja": "自然と人間を愛する、まっすぐな芸術を。京都芸術大学は学生数8500名を超える、日本で最も大きな芸術大学です。"
       },
       "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/kyoto-art-university-icon.svg",
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/kyoto-art-university-icon.svg",
       "url": "https://www.kyoto-art.ac.jp/"
     }
   ]
