@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-07-01T03:31:24.164Z",
+  "timestamp": "2025-08-08T07:40:38.934Z",
   "projects": [
     {
       "name": {
@@ -178,29 +178,29 @@
     },
     {
       "name": {
-        "en": "LBANK",
-        "ja": "LBANK"
+        "en": "X-GATE",
+        "ja": "X-GATE"
       },
       "description": {
-        "en": "LBank is a global cryptocurrency exchange offering spot trading and advanced financial services.",
-        "ja": "LBankは、現物取引や高度な金融サービスを提供するグローバルな仮想通貨取引所です。"
+        "en": "X-Gate is a DeFi service that allows for the Send, Mint, and Burn of cross-chain tokens like JOCX and USDTX across multiple networks, as well as the original base tokens such as JOC and USDT.",
+        "ja": "X-Gateとは、JOCX、USDTXなどクロスチェーントークンの複数ネットワーク間のSend、Mint、およびJOC、USDTなど元のベーストークンへのBurnを行うことができるDeFiサービスです。"
       },
       "types": ["exchange"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lbank-icon.svg",
-      "url": "https://www.lbank.com/trade/joc_usdt"
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/x-gate-icon.svg",
+      "url": "https://www.x-gate.org/send"
     },
     {
       "name": {
-        "en": "XT",
-        "ja": "XT"
+        "en": "X-SWAP",
+        "ja": "X-SWAP"
       },
       "description": {
-        "en": "XT is a cryptocurrency exchange providing secure trading, staking, and financial services for digital assets.",
-        "ja": "XTは、安全な取引、ステーキング、デジタル資産向けの金融サービスを提供する仮想通貨取引所です。"
+        "en": "X-Swap is a decentralized exchange (DEX) that supports multiple networks, including Ethereum and Japan Open Chain. It allows for swaps between different cryptocurrencies or the creation of token pair pools through smart contracts.",
+        "ja": "X-Swapとは、Ethereum、Japan Open Chainなどの複数のネットワークに対応しているDEX (分散型取引所) です。スマートコントラクトを通じて異なる暗号資産間のSwap、またはトークンペアのPoolを行うことができます。"
       },
       "types": ["exchange"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/xt-icon.svg",
-      "url": "https://www.xt.com/en/trade/joc_usdt"
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/x-swap-icon.svg",
+      "url": "https://www.x-swap.org/#/swap"
     },
     {
       "name": {
