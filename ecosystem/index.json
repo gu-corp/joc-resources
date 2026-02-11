@@ -510,7 +510,7 @@
         "en": "SBINFT, a subsidiary of SBI Holdings, operates in the business domain of Web3 focused on NFTs.",
         "ja": "SBINFTは、SBIホールディングスの子会社で、NFTに焦点を当てたWeb3分野で事業を展開しています。"
       },
-      "types": ["validator"],
+      "types": ["validator", "nft"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/sbinft-icon.svg",
       "url": "https://sbinft.market/"
     },
