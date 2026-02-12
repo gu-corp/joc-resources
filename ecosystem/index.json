@@ -204,6 +204,19 @@
     },
     {
       "name": {
+        "en": "Zaif",
+        "ja": "Zaif"
+      },
+      "description": {
+        "en": "Zaif, registered with Japan's Financial Services Agency, is a Japan-based cryptocurrency exchange offering services such as recurring purchases and automated trading, and is widely used by both beginners and experienced users.",
+        "ja": "Zaifは、金融庁登録済みの暗号資産交換業者が運営する国内暗号資産取引所です。積立や自動売買などのサービスにも対応しており、初心者から経験者まで利用されています。"
+      },
+      "types": ["exchange"],
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/dev/ecosystem/assets/zaif-icon.svg",
+      "url": "https://zaif.jp/sp/instant_exchange/joc/buy"
+    },
+    {
+      "name": {
         "en": "Bit2Me",
         "ja": "Bit2Me"
       },
