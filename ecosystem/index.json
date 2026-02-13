@@ -139,16 +139,16 @@
     },
     {
       "name": {
-        "en": "BitTrade",
-        "ja": "BitTrade"
+        "en": "Zaif",
+        "ja": "Zaif"
       },
       "description": {
-        "en": "BitTrade is a cryptocurrency exchange registered with Japan’s Financial Services Agency(Only for those living in Japan).",
-        "ja": "BitTradeは、金融庁登録済みの暗号資産交換業者として、国内取引銘柄数No1*と豊富な銘柄を取り揃えている暗号資産取引所です。"
+        "en": "Zaif, registered with Japan's Financial Services Agency, is a Japan-based cryptocurrency exchange offering services such as recurring purchases and automated trading, and is widely used by both beginners and experienced users.",
+        "ja": "Zaifは、金融庁登録済みの暗号資産交換業者が運営する国内暗号資産取引所です。積立や自動売買などのサービスにも対応しており、初心者から経験者まで利用されています。"
       },
       "types": ["exchange"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bit-trade-icon.svg",
-      "url": "https://www.bittrade.co.jp/ja-jp/exchange/joc_jpy/"
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/zaif-icon.svg",
+      "url": "https://zaif.jp/sp/instant_exchange/joc/buy"
     },
     {
       "name": {
@@ -201,19 +201,6 @@
       "types": ["exchange"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/x-swap-icon.svg",
       "url": "https://www.x-swap.org/#/swap"
-    },
-    {
-      "name": {
-        "en": "Zaif",
-        "ja": "Zaif"
-      },
-      "description": {
-        "en": "Zaif, registered with Japan's Financial Services Agency, is a Japan-based cryptocurrency exchange offering services such as recurring purchases and automated trading, and is widely used by both beginners and experienced users.",
-        "ja": "Zaifは、金融庁登録済みの暗号資産交換業者が運営する国内暗号資産取引所です。積立や自動売買などのサービスにも対応しており、初心者から経験者まで利用されています。"
-      },
-      "types": ["exchange"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/zaif-icon.svg",
-      "url": "https://zaif.jp/sp/instant_exchange/joc/buy"
     },
     {
       "name": {
