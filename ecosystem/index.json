@@ -217,6 +217,19 @@
     },
     {
       "name": {
+        "en": "BitTrade",
+        "ja": "BitTrade"
+      },
+      "description": {
+        "en": "Registered with Japan's Financial Services Agency, is a cryptocurrency exchange with the highest number of domestic trading pairs and a rich selection of assets.",
+        "ja": "金融庁登録済みの暗号資産交換業者として、国内取引銘柄数No1と豊富な銘柄を取り揃えている暗号資産取引所です。"
+      },
+      "types": ["exchange"],
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bit-trade-icon.svg",
+      "url": "https://www.bittrade.co.jp/ja-jp/exchange/joc_jpy/"
+    },
+    {
+      "name": {
         "en": "BUNZZ",
         "ja": "BUNZZ"
       },
@@ -373,6 +386,32 @@
     },
     {
       "name": {
+        "en": "CredShields",
+        "ja": "CredShields"
+      },
+      "description": {
+        "en": "A security company delivering Web2 and Web3 application security through smart contract audits, AI-powered risk detection, and continuous monitoring, enabling enterprises and blockchain protocols to build, deploy, and scale systems securely.",
+        "ja": "スマートコントラクト監査やAIによる継続的なリスク検知を通じて、Web2およびWeb3のアプリケーションセキュリティを提供し、安全な構築と運用を支援する企業です。"
+      },
+      "types": ["devtool"],
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/credshields-icon.svg",
+      "url": "https://credshields.com/"
+    },
+    {
+      "name": {
+        "en": "SubQuery Network",
+        "ja": "SubQuery Network"
+      },
+      "description": {
+        "en": "Innovating in web3 infrastructure with tools that empower builders to decentralise without compromise. Offers data indexers, RPCs and AI agents - all fully decentralised and production ready.",
+        "ja": "開発者が妥協なく分散化を進められるようWeb3 インフラの革新を推進しており、データインデクサー・RPC・AI エージェント等、完全に分散化され本番環境で使用可能な状態で提供しています。"
+      },
+      "types": ["devtool"],
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/subquery-icon.svg",
+      "url": "https://subquery.network/"
+    },
+    {
+      "name": {
         "en": "Aozora Bank",
         "ja": "Aozora Bank"
       },
@@ -383,6 +422,51 @@
       "types": ["stable_coin"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/aozora-bank-icon.svg",
       "url": "https://www.aozorabank.co.jp/"
+    },
+    {
+      "name": {
+        "en": "ORIX Bank",
+        "ja": "オリックス銀行"
+      },
+      "description": {
+        "en": "As a member of the ORIX Group, is a bank providing unique financial services, catering to the diverse needs of its broad customer base.",
+        "ja": "オリックスグループの一員として、ユニークな金融サービスを提供する銀行です。幅広い顧客層のニーズにお応えします。"
+      },
+      "types": ["stable_coin"],
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/orix-bank-wide-icon.png",
+      "url": "https://www.orixbank.co.jp/"
+    },
+    {
+      "name": {
+        "en": "Shikoku Bank",
+        "ja": "四国銀行"
+      },
+      "description": {
+        "en": "Headquartered in Kochi Prefecture, is a regional bank supporting the economic development of the Shikoku region, offering a wide range of banking operations and community-focused services.",
+        "ja": "高知県を拠点に四国地方の経済発展をサポートする地域銀行として、多岐にわたる銀行業務から地域密着型のサービスまで提供しています。"
+      },
+      "types": ["stable_coin"],
+      "image": {
+        "en": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/shikoku-bank-wide-icon_en.svg",
+        "ja": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/shikoku-bank-wide-icon.svg"
+      },
+      "url": "https://www.shikokubank.co.jp/"
+    },
+    {
+      "name": {
+        "en": "Kiraboshi Bank Group",
+        "ja": "きらぼし銀行グループ"
+      },
+      "description": {
+        "en": "As a financial group for small and medium enterprises and individual customers in the Tokyo metropolitan area, it contributes to the development of the community through comprehensive financial services.",
+        "ja": "首都圏における中小企業と個人のお客さまのための金融グループとして、総合金融サービスを通じて、地域社会の発展に貢献します。"
+      },
+      "types": ["stable_coin"],
+      "image": {
+        "en": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tokyo-kiraboshi-fg-wide-icon_en.svg",
+        "ja": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tokyo-kiraboshi-fg-wide-icon.svg"
+      },
+      "url": "https://www.tokyo-kiraboshifg.co.jp/index.html"
     },
     {
       "name": {
@@ -565,84 +649,6 @@
       "types": ["validator"],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/pacific-meta-icon.svg",
       "url": "https://pacific-meta.co.jp/"
-    },
-    {
-      "name": {
-        "en": "CredShields",
-        "ja": "CredShields"
-      },
-      "description": {
-        "en": "A security company delivering Web2 and Web3 application security through smart contract audits, AI-powered risk detection, and continuous monitoring, enabling enterprises and blockchain protocols to build, deploy, and scale systems securely.",
-        "ja": "スマートコントラクト監査やAIによる継続的なリスク検知を通じて、Web2およびWeb3のアプリケーションセキュリティを提供し、安全な構築と運用を支援する企業です。"
-      },
-      "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/credshields-icon.svg",
-      "url": "https://credshields.com/"
-    },
-    {
-      "name": {
-        "en": "SubQuery Network",
-        "ja": "SubQuery Network"
-      },
-      "description": {
-        "en": "Innovating in web3 infrastructure with tools that empower builders to decentralise without compromise. Offers data indexers, RPCs and AI agents - all fully decentralised and production ready.",
-        "ja": "開発者が妥協なく分散化を進められるようWeb3 インフラの革新を推進しており、データインデクサー・RPC・AI エージェント等、完全に分散化され本番環境で使用可能な状態で提供しています。"
-      },
-      "types": ["devtool"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/subquery-icon.svg",
-      "url": "https://subquery.network/"
-    },
-    {
-      "name": {
-        "en": "ORIX Bank",
-        "ja": "オリックス銀行"
-      },
-      "description": {
-        "en": "As a member of the ORIX Group, is a bank providing unique financial services, catering to the diverse needs of its broad customer base.",
-        "ja": "オリックスグループの一員として、ユニークな金融サービスを提供する銀行です。幅広い顧客層のニーズにお応えします。"
-      },
-      "types": ["stable_coin"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/orix-bank-icon.svg",
-      "url": "https://www.orixbank.co.jp/"
-    },
-    {
-      "name": {
-        "en": "Shikoku Bank",
-        "ja": "四国銀行"
-      },
-      "description": {
-        "en": "Headquartered in Kochi Prefecture, is a regional bank supporting the economic development of the Shikoku region, offering a wide range of banking operations and community-focused services.",
-        "ja": "高知県を拠点に四国地方の経済発展をサポートする地域銀行として、多岐にわたる銀行業務から地域密着型のサービスまで提供しています。"
-      },
-      "types": ["stable_coin"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/shikoku-bank-icon.svg",
-      "url": "https://www.shikokubank.co.jp/"
-    },
-    {
-      "name": {
-        "en": "Kiraboshi Bank Group",
-        "ja": "きらぼし銀行グループ"
-      },
-      "description": {
-        "en": "As a financial group for small and medium enterprises and individual customers in the Tokyo metropolitan area, it contributes to the development of the community through comprehensive financial services.",
-        "ja": "首都圏における中小企業と個人のお客さまのための金融グループとして、総合金融サービスを通じて、地域社会の発展に貢献します。"
-      },
-      "types": ["stable_coin"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tokyo-kiraboshi-fg-icon.svg",
-      "url": "https://www.tokyo-kiraboshifg.co.jp/index.html"
-    },
-    {
-      "name": {
-        "en": "BitTrade",
-        "ja": "BitTrade"
-      },
-      "description": {
-        "en": "Registered with Japan's Financial Services Agency, is a cryptocurrency exchange with the highest number of domestic trading pairs and a rich selection of assets.",
-        "ja": "金融庁登録済みの暗号資産交換業者として、国内取引銘柄数No1と豊富な銘柄を取り揃えている暗号資産取引所です。"
-      },
-      "types": ["exchange"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bit-trade-icon.svg",
-      "url": "https://www.bittrade.co.jp/ja-jp/exchange/joc_jpy/"
     }
   ]
 }
