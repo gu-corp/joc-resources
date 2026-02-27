@@ -295,19 +295,6 @@
     },
     {
       "name": {
-        "en": "暗号屋",
-        "ja": "暗号屋"
-      },
-      "description": {
-        "en": "Ango-ya is a technical organization created to generate and socially implement new economic activities enabled by blockchain technology.",
-        "ja": "暗号屋は、ブロックチェーン技術によって可能になる新たな経済活動を創出し、社会実装することを目的とした技術組織です。"
-      },
-      "types": ["business"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/angoya-icon.svg",
-      "url": "https://www.ango-ya.org/"
-    },
-    {
-      "name": {
         "en": "DeManga",
         "ja": "DeManga"
       },
