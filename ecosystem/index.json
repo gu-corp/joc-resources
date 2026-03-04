@@ -399,6 +399,19 @@
     },
     {
       "name": {
+        "en": "POWER NEWS",
+        "ja": "株式会社POWER NEWS"
+      },
+      "description": {
+        "en": "We are a media services company that brings together publishing media experts. We provide high-quality professional services, from text writing to planning and producing web and publishing media, both analog and digital.",
+        "ja": "出版メディアのエキスパートが集結したメディアサービス・カンパニー。テキスト執筆からウェブ・出版メディアの企画・制作まで、アナログ／デジタルを問わず高品位なプロフェッショナル・サービスを提供します。"
+      },
+      "types": ["business", "devtool"],
+      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/power-news-icon.svg",
+      "url": "https://www.powernews.co.jp/"
+    },
+    {
+      "name": {
         "en": "Aozora Bank",
         "ja": "Aozora Bank"
       },
