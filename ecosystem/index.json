@@ -40,10 +40,14 @@
         "zh-CN": "安全、快速、多功能的浏览器，带有标准 Web3 钱包。",
         "zh-TW": "安全、快速、多功能的瀏覽器，附有標準 Web3 錢包。"
       },
-      "types": ["web3_browser"],
+      "types": [
+        "web3_browser"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lunascape-icon.svg",
       "url": "https://www.lunascape.org/browser/mobile/",
-      "tags": ["featured"]
+      "tags": [
+        "featured"
+      ]
     },
     {
       "name": {
@@ -84,10 +88,14 @@
         "zh-CN": "GU. Wallet 是一款 web3 钱包，为每个人提供安全且易于使用的功能。",
         "zh-TW": "GU. Wallet 是一款 web3 錢包，為每個人提供安全且易於使用的功能。"
       },
-      "types": ["wallet"],
+      "types": [
+        "wallet"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gu-wallet-icon.svg",
       "url": "https://www.lunascape.org/en/wallet",
-      "tags": ["featured"]
+      "tags": [
+        "featured"
+      ]
     },
     {
       "name": {
@@ -128,10 +136,14 @@
         "zh-CN": "最值得信赖的去中心化托管协议和集合资产管理平台。",
         "zh-TW": "最值得信賴的去中心化託管協議和集合資產管理平台。"
       },
-      "types": ["wallet"],
+      "types": [
+        "wallet"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/safe-wallet-icon.svg",
       "url": "https://safe-wallet.gu.net/",
-      "tags": ["featured"]
+      "tags": [
+        "featured"
+      ]
     },
     {
       "name": {
@@ -172,10 +184,14 @@
         "zh-CN": "X2Y2 Pro于2023年推出，是一款多链NFT聚合器，为专业交易者提供直观的UI/UX，在NFT市场上赢得了高度评价。",
         "zh-TW": "X2Y2 Pro於2023年推出，是一款多鏈NFT聚合器，為專業交易者提供直覺的UI/UX，在NFT市場上贏得了高度評價。"
       },
-      "types": ["nft"],
+      "types": [
+        "nft"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/x2-y2-pro-icon.svg",
       "url": "https://pro.x2y2.io/joc/collections",
-      "tags": ["featured"]
+      "tags": [
+        "featured"
+      ]
     },
     {
       "name": {
@@ -216,10 +232,14 @@
         "zh-CN": "QuickNode 是一家区块链基础设施公司，提供支持 Web3 开发的工具和资源。",
         "zh-TW": "QuickNode 是一家區塊鏈基礎設施公司，提供支援 Web3 開發的工具和資源。"
       },
-      "types": ["devtool"],
+      "types": [
+        "devtool"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/quick-node-icon.svg",
       "url": "https://www.quicknode.com/chains/joc",
-      "tags": ["featured"]
+      "tags": [
+        "featured"
+      ]
     },
     {
       "name": {
@@ -260,7 +280,9 @@
         "zh-CN": "OpenZeppelin 成立于 2015 年，为构建、保护和运营链上开发工具提供行业标准。",
         "zh-TW": "OpenZeppelin 成立於 2015 年，為建置、保護和營運鏈上開發工具提供業界標準。"
       },
-      "types": ["devtool"],
+      "types": [
+        "devtool"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/open-zepplin-icon.svg",
       "url": "https://defender.openzeppelin.com"
     },
@@ -303,7 +325,9 @@
         "zh-CN": "图是去中心化互联网上数据和信息的中心存在。",
         "zh-TW": "圖是去中心化網路上資料和資訊的中心存在。"
       },
-      "types": ["devtool"],
+      "types": [
+        "devtool"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/the-graph-icon.svg",
       "url": "https://thegraph.com/"
     },
@@ -346,10 +370,14 @@
         "zh-CN": "Thirdweb 是一个用于 Web3 开发工具和游戏的开源全栈开发平台。",
         "zh-TW": "Thirdweb 是一個用於 Web3 開發工具和遊戲的開源全端開發平台。"
       },
-      "types": ["devtool"],
+      "types": [
+        "devtool"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/thirdweb-icon.svg",
       "url": "https://thirdweb.com/japan-open-chain",
-      "tags": ["featured"]
+      "tags": [
+        "featured"
+      ]
     },
     {
       "name": {
@@ -390,7 +418,9 @@
         "zh-CN": "Supra 的目标是与原生预言机、dVRF、自动化、跨链通信和 MultiVM 支持进行完全垂直集成。",
         "zh-TW": "Supra 的目標是與原生預言機、dVRF、自動化、跨鏈通訊和 MultiVM 支援進行完全垂直整合。"
       },
-      "types": ["devtool"],
+      "types": [
+        "devtool"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/supra-icon.svg",
       "url": "https://supra.com/"
     },
@@ -433,7 +463,10 @@
         "zh-CN": "SUSHI TOP MARKETING 提供了 NFT 营销的所有必备功能，包括 NFT 解决方案“NFT Shot”。",
         "zh-TW": "SUSHI TOP MARKETING 提供了 NFT 行銷的所有必備功能，包括 NFT 解決方案「NFT Shot」。"
       },
-      "types": ["business", "nft"],
+      "types": [
+        "business",
+        "nft"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/sushi-top-marketing-icon.svg",
       "url": "https://www.sushitopmarketing.com/"
     },
@@ -476,7 +509,9 @@
         "zh-CN": "Zaif 在日本金融厅注册，是一家总部位于日本的加密货币交易所，提供定期购买和自动交易等服务，被初学者和经验丰富的用户广泛使用。",
         "zh-TW": "Zaif 在日本金融廳註冊，是一家總部位於日本的加密貨幣交易所，提供定期購買和自動交易等服務，被初學者和經驗豐富的用戶廣泛使用。"
       },
-      "types": ["exchange"],
+      "types": [
+        "exchange"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/zaif-icon.svg",
       "url": "https://zaif.jp/sp/instant_exchange/joc/buy"
     },
@@ -519,7 +554,9 @@
         "zh-CN": "Gate.io是一家历史悠久的加密货币交易所，成立于2013年，业务遍及200多个国家和地区。",
         "zh-TW": "Gate.io是一家歷史悠久的加密貨幣交易所，成立於2013年，業務遍及200多個國家和地區。"
       },
-      "types": ["exchange"],
+      "types": [
+        "exchange"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gate-io-icon.svg",
       "url": "https://www.gate.io/trade/JOC_USDT"
     },
@@ -562,7 +599,9 @@
         "zh-CN": "MEXC 是一家加密货币交易所，使用户能够购买、出售和交易各种数字资产。",
         "zh-TW": "MEXC 是一家加密貨幣交易所，使用戶能夠購買、出售和交易各種數位資產。"
       },
-      "types": ["exchange"],
+      "types": [
+        "exchange"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/mexc-icon.svg",
       "url": "https://www.mexc.com/exchange/JOC_USDT"
     },
@@ -605,7 +644,9 @@
         "zh-CN": "X-Gate 是一项 DeFi 服务，允许跨多个网络发送、铸造和销毁 JOCX 和 USDTX 等跨链代币，以及 JOC 和 USDT 等原始基础代币。",
         "zh-TW": "X-Gate 是一項 DeFi 服務，允許跨多個網路發送、鑄造和銷毀 JOCX 和 USDTX 等跨鏈代幣，以及 JOC 和 USDT 等原始基礎代幣。"
       },
-      "types": ["exchange"],
+      "types": [
+        "exchange"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/x-gate-icon.svg",
       "url": "https://www.x-gate.org/send"
     },
@@ -648,7 +689,9 @@
         "zh-CN": "X-Swap是一个去中心化交易所（DEX），支持多个网络，包括以太坊和日本开放链。它允许不同加密货币之间的交换或通过智能合约创建代币对池。",
         "zh-TW": "X-Swap是一個去中心化交易所（DEX），支援多個網絡，包括以太坊和日本開放鏈。它允許不同加密貨幣之間的交換或透過智慧合約創建代幣對池。"
       },
-      "types": ["exchange"],
+      "types": [
+        "exchange"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/x-swap-icon.svg",
       "url": "https://www.x-swap.org/#/swap"
     },
@@ -691,7 +734,9 @@
         "zh-CN": "Bit2Me 是一个加密货币平台，在欧洲提供交易、钱包和轻松访问数字资产的服务。",
         "zh-TW": "Bit2Me 是一個加密貨幣平台，在歐洲提供交易、錢包和輕鬆存取數位資產的服務。"
       },
-      "types": ["exchange"],
+      "types": [
+        "exchange"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bit2me-icon.svg",
       "url": "https://bit2me.com/buy-japan-open-chain"
     },
@@ -734,7 +779,9 @@
         "zh-CN": "于日本金融厅注册，是国内交易对数量最多、资产选择丰富的加密货币交易所。",
         "zh-TW": "於日本金融廳註冊，是國內交易對數量最多、資產選擇豐富的加密貨幣交易所。"
       },
-      "types": ["exchange"],
+      "types": [
+        "exchange"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bit-trade-icon.svg",
       "url": "https://www.bittrade.co.jp/ja-jp/exchange/joc_jpy/"
     },
@@ -777,7 +824,9 @@
         "zh-CN": "Bunzz 是一个基础设施，可以轻松开发区块链相关业务系统所必需的“智能合约”。",
         "zh-TW": "Bunzz 是一個基礎設施，可以輕鬆開發區塊鏈相關業務系統所必需的「智慧合約」。"
       },
-      "types": ["devtool"],
+      "types": [
+        "devtool"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/bunzz-icon.svg",
       "url": "https://www.bunzz.dev/"
     },
@@ -820,7 +869,9 @@
         "zh-CN": "Quboid 的平台帮助品牌向用户提供独特的品牌代币、NFT 和实用程序作为奖励。",
         "zh-TW": "Quboid 的平台可協助品牌為用戶提供獨特的品牌代幣、NFT 和實用程式作為獎勵。"
       },
-      "types": ["devtool"],
+      "types": [
+        "devtool"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/qubiod-icon.svg",
       "url": "https://qubo.id/"
     },
@@ -863,7 +914,10 @@
         "zh-CN": "N Suite 是一款 Web3 商业软件 (SaaS)，具有钱包功能，可供企业进行私钥管理以确保安全。",
         "zh-TW": "N Suite 是 Web3 商業軟體 (SaaS)，具有錢包功能，可供企業進行私鑰管理以確保安全。"
       },
-      "types": ["business", "wallet"],
+      "types": [
+        "business",
+        "wallet"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/n-suite-icon.svg",
       "url": "https://www.nsuite.io/"
     },
@@ -906,7 +960,9 @@
         "zh-CN": "NFT Garden是一个面向企业的多链NFT生成平台，由Connectiv开发和运营。",
         "zh-TW": "NFT Garden是一個以企業為導向的多鏈NFT生成平台，由Connectiv開發和營運。"
       },
-      "types": ["nft"],
+      "types": [
+        "nft"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/nft-garden-icon.svg",
       "url": "https://nftgarden.app/"
     },
@@ -949,7 +1005,9 @@
         "zh-CN": "VMO 是一家 IT 外包公司，总部位于河内，业务遍及全球。它支持全球 500 多个项目。",
         "zh-TW": "VMO 是一家 IT 外包公司，總部位於河內，業務遍及全球。它支援全球 500 多個項目。"
       },
-      "types": ["business"],
+      "types": [
+        "business"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/vmo-icon.svg",
       "url": "https://vmogroup.com/"
     },
@@ -992,7 +1050,9 @@
         "zh-CN": "Staff Life Co., Ltd. 提供 DeManga，这是一个以其尖端技术和创意内容而闻名的数字漫画平台。",
         "zh-TW": "Staff Life Co., Ltd. 提供 DeManga，這是一個以其尖端技術和創意內容而聞名的數位漫畫平台。"
       },
-      "types": ["nft"],
+      "types": [
+        "nft"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/demanga-icon.svg",
       "url": "https://x.com/DeManga_jp"
     },
@@ -1035,7 +1095,9 @@
         "zh-CN": "Langdemy Co., Ltd. 拥有 100 多名工程师，提供强大的区块链、人工智能和 NFT 解决方案。",
         "zh-TW": "Langdemy Co., Ltd. 擁有 100 多名工程師，提供強大的區塊鏈、人工智慧和 NFT 解決方案。"
       },
-      "types": ["business"],
+      "types": [
+        "business"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/langdemy-icon.svg",
       "url": "https://langdemy.com/"
     },
@@ -1078,7 +1140,9 @@
         "zh-CN": "LOOTaDOG 提供了一款利用区块链的步行应用程序。",
         "zh-TW": "LOOTaDOG 提供了一個利用區塊鏈的步行應用程式。"
       },
-      "types": ["nft"],
+      "types": [
+        "nft"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/lootadog-icon.svg",
       "url": "https://lootadog.com/"
     },
@@ -1121,7 +1185,9 @@
         "zh-CN": "D’CENT是世界上第一个具有指纹认证功能的生物识别加密钱包。它以独特的方式结合了硬件和软件钱包，可在一个平台上提供强大的安全性、资产增长潜力以及对 Web3 生态系统的无缝访问。",
         "zh-TW": "D’CENT是世界上第一個具有指紋認證功能的生物辨識加密錢包。它以獨特的方式結合了硬體和軟體錢包，可在一個平台上提供強大的安全性、資產成長潛力以及對 Web3 生態系統的無縫存取。"
       },
-      "types": ["wallet"],
+      "types": [
+        "wallet"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/dcent-icon.svg",
       "url": "https://www.dcentwallet.com/en"
     },
@@ -1164,7 +1230,9 @@
         "zh-CN": "FoxWallet是一款多链兼容的加密货币钱包。它支持以太坊等主要区块链。",
         "zh-TW": "FoxWallet是一款多鏈相容的加密貨幣錢包。它支持以太坊等主要区块链。"
       },
-      "types": ["wallet"],
+      "types": [
+        "wallet"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/fox-wallet-icon.svg",
       "url": "https://foxwallet.com/"
     },
@@ -1207,7 +1275,9 @@
         "zh-CN": "LayerZero 是一种全链互操作性协议，可跨 100 多个区块链实现无缝数据传输和通信。",
         "zh-TW": "LayerZero 是一種全鏈互通性協議，可在 100 多個區塊鏈上實現無縫資料傳輸和通訊。"
       },
-      "types": ["devtool"],
+      "types": [
+        "devtool"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/layerzero-icon.svg",
       "url": "https://layerzero.network/"
     },
@@ -1250,7 +1320,9 @@
         "zh-CN": "一家安全公司，通过智能合约审计、人工智能驱动的风险检测和持续监控提供 Web2 和 Web3 应用程序安全性，使企业和区块链协议能够安全地构建、部署和扩展系统。",
         "zh-TW": "一家安全公司，透過智慧合約審計、人工智慧驅動的風險檢測和持續監控提供 Web2 和 Web3 應用程式安全性，使企業和區塊鏈協議能夠安全地建置、部署和擴展系統。"
       },
-      "types": ["devtool"],
+      "types": [
+        "devtool"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/credshields-icon.svg",
       "url": "https://credshields.com/"
     },
@@ -1293,7 +1365,9 @@
         "zh-CN": "使用使构建者能够毫不妥协地去中心化的工具来创新 web3 基础设施。提供数据索引器、RPC 和 AI 代理 - 所有这些都完全去中心化并准备好投入生产。",
         "zh-TW": "使用使建構者能夠毫不妥協地去中心化的工具來創新 web3 基礎設施。提供資料索引器、RPC 和 AI 代理程式 - 所有這些都完全去中心化並準備好投入生產。"
       },
-      "types": ["devtool"],
+      "types": [
+        "devtool"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/subquery-icon.svg",
       "url": "https://subquery.network/"
     },
@@ -1336,7 +1410,10 @@
         "zh-CN": "我们是一家汇集出版媒体专家的媒体服务公司。我们提供高质量的专业服务，从文本写作到规划和制作网络和出版媒体（模拟和数字）。",
         "zh-TW": "我們是一家匯集出版媒體專家的媒體服務公司。我們提供高品質的專業服務，從文字寫作到規劃和製作網路和出版媒體（類比和數位）。"
       },
-      "types": ["business", "devtool"],
+      "types": [
+        "business",
+        "devtool"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/power-news-icon.svg",
       "url": "https://www.powernews.co.jp/"
     },
@@ -1379,7 +1456,9 @@
         "zh-CN": "青空银行倡导创造金融价值，为社会发展做出贡献。",
         "zh-TW": "青空銀行提倡創造金融價值，為社會發展做出貢獻。"
       },
-      "types": ["stable_coin"],
+      "types": [
+        "stable_coin"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/aozora-bank-icon.svg",
       "url": "https://www.aozorabank.co.jp/"
     },
@@ -1422,7 +1501,9 @@
         "zh-CN": "作为欧力士集团的成员，该银行提供独特的金融服务，满足广大客户群的多样化需求。",
         "zh-TW": "作為歐力士集團的成員，該銀行提供獨特的金融服務，滿足廣大客戶群的多樣化需求。"
       },
-      "types": ["stable_coin"],
+      "types": [
+        "stable_coin"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/orix-bank-wide-icon.png",
       "url": "https://www.orixbank.co.jp/"
     },
@@ -1465,7 +1546,9 @@
         "zh-CN": "总部位于高知县，是一家支持四国地区经济发展的区域银行，提供广泛的银行业务和以社区为中心的服务。",
         "zh-TW": "總部位於高知縣，是一家支持四國地區經濟發展的區域銀行，提供廣泛的銀行業務和以社區為中心的服務。"
       },
-      "types": ["stable_coin"],
+      "types": [
+        "stable_coin"
+      ],
       "image": {
         "en": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/shikoku-bank-wide-icon_en.svg",
         "ja": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/shikoku-bank-wide-icon.svg"
@@ -1511,7 +1594,9 @@
         "zh-CN": "作为面向东京都地区中小企业和个人客户的金融集团，通过综合金融服务为社区发展做出贡献。",
         "zh-TW": "作為一個面向東京都地區中小企業和個人客戶的金融集團，透過綜合金融服務為社區發展做出貢獻。"
       },
-      "types": ["stable_coin"],
+      "types": [
+        "stable_coin"
+      ],
       "image": {
         "en": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tokyo-kiraboshi-fg-wide-icon_en.svg",
         "ja": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tokyo-kiraboshi-fg-wide-icon.svg"
@@ -1557,7 +1642,9 @@
         "zh-CN": "利用区块链和人工智能开发对客户和社会的未来产生积极影响的产品和服务。",
         "zh-TW": "利用區塊鏈和人工智慧開發對客戶和社會的未來產生積極影響的產品和服務。"
       },
-      "types": ["validator"],
+      "types": [
+        "validator"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/cac-icon.svg",
       "url": "https://www.cac.co.jp/"
     },
@@ -1600,7 +1687,9 @@
         "zh-CN": "讯连科技通过“共享云”提供安全、放心、高质量、高性价比的云服务，为整个行业的DX做出贡献。",
         "zh-TW": "訊連科技透過「共享雲端」提供安全、放心、高品質、高性價比的雲端服務，為整個產業的DX做出貢獻。"
       },
-      "types": ["validator"],
+      "types": [
+        "validator"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/cyber-links-icon.svg",
       "url": "https://www.cyber-l.co.jp/"
     },
@@ -1643,7 +1732,9 @@
         "zh-CN": "Dentsu Inc. 旨在通过提供广告和营销服务为客户的品牌和业务的成功做出贡献。",
         "zh-TW": "Dentsu Inc. 旨在透過提供廣告和行銷服務為客戶的品牌和業務的成功做出貢獻。"
       },
-      "types": ["validator"],
+      "types": [
+        "validator"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/dentsu-japan-icon.svg",
       "url": "https://www.japan.dentsu.com/"
     },
@@ -1686,7 +1777,9 @@
         "zh-CN": "G.U.Technologies, Inc. 旨在开启数字革命的新时代，让金融和信息通过区块链融合。",
         "zh-TW": "G.U.Technologies, Inc. 旨在開啟數位革命的新時代，讓金融和資訊透過區塊鏈融合。"
       },
-      "types": ["validator"],
+      "types": [
+        "validator"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/gu-technologies-icon.svg",
       "url": "https://www.gu-tech.com/"
     },
@@ -1729,7 +1822,9 @@
         "zh-CN": "Hatena Co., Ltd.为用户开发“Hatena Blog”和“Hatena Bookmark”等内容平台服务。",
         "zh-TW": "Hatena Co., Ltd.為使用者開發「Hatena Blog」和「Hatena Bookmark」等內容平台服務。"
       },
-      "types": ["validator"],
+      "types": [
+        "validator"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/hatena-icon.svg",
       "url": "https://hatena.co.jp/"
     },
@@ -1772,7 +1867,9 @@
         "zh-CN": "insprout Co., Ltd.专注于通过以IT、互联网服务和系统开发为中心的初创投资来创造未来。",
         "zh-TW": "insprout Co., Ltd.專注於透過以IT、互聯網服務和系統開發為中心的新創投資來創造未來。"
       },
-      "types": ["validator"],
+      "types": [
+        "validator"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/insprout-icon.svg",
       "url": "https://insprout.com/"
     },
@@ -1815,52 +1912,11 @@
         "zh-CN": "Kudasai Co., Ltd. 于 2020 年成立，名为 KudasaiJP，是日本最大的加密货币社区之一。",
         "zh-TW": "Kudasai Co., Ltd. 於 2020 年成立，名為 KudasaiJP，是日本最大的加密貨幣社群之一。"
       },
-      "types": ["validator"],
+      "types": [
+        "validator"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/kudasai-jp-icon.svg",
       "url": "https://kudasai.co.jp/"
-    },
-    {
-      "name": {
-        "en": "NETHERMIND",
-        "ja": "NETHERMIND",
-        "ar": "NETHERMIND",
-        "de": "NETHERMIND",
-        "es": "NETHERMIND",
-        "fr": "NETHERMIND",
-        "hi": "NETHERMIND",
-        "id": "NETHERMIND",
-        "it": "NETHERMIND",
-        "ko": "NETHERMIND",
-        "pt": "NETHERMIND",
-        "ru": "NETHERMIND",
-        "th": "NETHERMIND",
-        "tr": "NETHERMIND",
-        "vi": "NETHERMIND",
-        "zh-CN": "NETHERMIND",
-        "zh-TW": "NETHERMIND"
-      },
-      "description": {
-        "en": "Nethermind is a blockchain research and software engineering company supporting companies and developers.",
-        "ja": "Nethermindは、企業や開発者をサポートするブロックチェーン研究およびソフトウェアエンジニアリングの会社です。",
-        "ar": "Nethermind هي شركة أبحاث وهندسة برمجيات تدعم الشركات والمطورين.",
-        "de": "Nethermind ist ein Blockchain-Forschungs- und Software-Engineering-Unternehmen, das Unternehmen und Entwickler unterstützt.",
-        "es": "Nethermind es una empresa de ingeniería de software e investigación de blockchain que apoya a empresas y desarrolladores.",
-        "fr": "Nethermind est une société de recherche et d'ingénierie logicielle blockchain qui accompagne les entreprises et les développeurs.",
-        "hi": "नेदरमाइंड एक ब्लॉकचेन अनुसंधान और सॉफ्टवेयर इंजीनियरिंग कंपनी है जो कंपनियों और डेवलपर्स का समर्थन करती है।",
-        "id": "Nethermind adalah perusahaan penelitian dan rekayasa perangkat lunak blockchain yang mendukung perusahaan dan pengembang.",
-        "it": "Nethermind è una società di ricerca blockchain e ingegneria del software che supporta aziende e sviluppatori.",
-        "ko": "Nethermind는 기업과 개발자를 지원하는 블록체인 연구 및 소프트웨어 엔지니어링 회사입니다.",
-        "pt": "Nethermind é uma empresa de pesquisa de blockchain e engenharia de software que apoia empresas e desenvolvedores.",
-        "ru": "Nethermind — компания, занимающаяся исследованием блокчейнов и разработкой программного обеспечения, поддерживающая компании и разработчиков.",
-        "th": "Nethermind คือบริษัทวิจัยบล็อกเชนและวิศวกรรมซอฟต์แวร์ที่สนับสนุนบริษัทและนักพัฒนา",
-        "tr": "Nethermind, şirketleri ve geliştiricileri destekleyen bir blockchain araştırma ve yazılım mühendisliği şirketidir.",
-        "vi": "Nethermind là một công ty nghiên cứu blockchain và kỹ thuật phần mềm hỗ trợ các công ty và nhà phát triển.",
-        "zh-CN": "Nethermind 是一家为公司和开发人员提供支持的区块链研究和软件工程公司。",
-        "zh-TW": "Nethermind 是一家為公司和開發人員提供支援的區塊鏈研究和軟體工程公司。"
-      },
-      "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/nethermind-icon.svg",
-      "url": "https://www.nethermind.io/"
     },
     {
       "name": {
@@ -1901,95 +1957,11 @@
         "zh-CN": "以插画、漫画、小说为主的投稿平台“pixiv”，为世界各地的创作者提供各种支持服务。",
         "zh-TW": "以插畫、漫畫、小說為主的投稿平台“pixiv”，為世界各地的創作者提供各種支援服務。"
       },
-      "types": ["validator"],
+      "types": [
+        "validator"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/pixiv-icon.svg",
       "url": "https://www.pixiv.net/"
-    },
-    {
-      "name": {
-        "en": "SBINFT",
-        "ja": "SBINFT",
-        "ar": "SBINFT",
-        "de": "SBINFT",
-        "es": "SBINFT",
-        "fr": "SBINFT",
-        "hi": "SBINFT",
-        "id": "SBINFT",
-        "it": "SBINFT",
-        "ko": "SBINFT",
-        "pt": "SBINFT",
-        "ru": "SBINFT",
-        "th": "SBINFT",
-        "tr": "SBINFT",
-        "vi": "SBINFT",
-        "zh-CN": "SBINFT",
-        "zh-TW": "SBINFT"
-      },
-      "description": {
-        "en": "SBINFT, a subsidiary of SBI Holdings, operates in the business domain of Web3 focused on NFTs.",
-        "ja": "SBINFTは、SBIホールディングスの子会社で、NFTに焦点を当てたWeb3分野で事業を展開しています。",
-        "ar": "تعمل SBINFT، وهي شركة تابعة لشركة SBI Holdings، في مجال أعمال Web3 الذي يركز على NFTs.",
-        "de": "SBINFT, eine Tochtergesellschaft von SBI Holdings, ist im Geschäftsbereich Web3 mit Schwerpunkt auf NFTs tätig.",
-        "es": "SBINFT, una subsidiaria de SBI Holdings, opera en el dominio comercial de Web3 centrado en NFT.",
-        "fr": "SBINFT, une filiale de SBI Holdings, opère dans le domaine d'activité du Web3 axé sur les NFT.",
-        "hi": "एसबीआई होल्डिंग्स की सहायक कंपनी एसबीआईएनएफटी, एनएफटी पर केंद्रित वेब3 के बिजनेस डोमेन में काम करती है।",
-        "id": "SBINFT, anak perusahaan SBI Holdings, beroperasi di domain bisnis Web3 yang berfokus pada NFT.",
-        "it": "SBINFT, una filiale di SBI Holdings, opera nel dominio aziendale di Web3 focalizzato sugli NFT.",
-        "ko": "SBI Holdings의 자회사인 SBINFT는 NFT에 중점을 둔 Web3의 사업 영역을 운영하고 있습니다.",
-        "pt": "A SBINFT, subsidiária da SBI Holdings, atua no domínio comercial da Web3 com foco em NFTs.",
-        "ru": "SBINFT, дочерняя компания SBI Holdings, работает в бизнес-сфере Web3, ориентированной на NFT.",
-        "th": "SBINFT ซึ่งเป็นบริษัทในเครือของ SBI Holdings ดำเนินงานในโดเมนธุรกิจของ Web3 ที่เน้นไปที่ NFT",
-        "tr": "SBI Holdings'in bir yan kuruluşu olan SBINFT, NFT'lere odaklanan Web3 iş alanında faaliyet göstermektedir.",
-        "vi": "SBINFT, một công ty con của SBI Holdings, hoạt động trong lĩnh vực kinh doanh Web3 tập trung vào NFT.",
-        "zh-CN": "SBINFT 是 SBI Holdings 的子公司，专注于 NFT 的 Web3 业务领域。",
-        "zh-TW": "SBINFT 是 SBI Holdings 的子公司，專注於 NFT 的 Web3 業務領域。"
-      },
-      "types": ["validator", "nft"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/sbinft-icon.svg",
-      "url": "https://sbinft.market/"
-    },
-    {
-      "name": {
-        "en": "TIS",
-        "ja": "TIS",
-        "ar": "TIS",
-        "de": "TIS",
-        "es": "TIS",
-        "fr": "TIS",
-        "hi": "TIS",
-        "id": "TIS",
-        "it": "TIS",
-        "ko": "TIS",
-        "pt": "TIS",
-        "ru": "TIS",
-        "th": "TIS",
-        "tr": "TIS",
-        "vi": "TIS",
-        "zh-CN": "TIS",
-        "zh-TW": "TIS"
-      },
-      "description": {
-        "en": "TIS provides a wide range of offerings from core systems supporting business to devtools that generate high competitiveness.",
-        "ja": "TISは、ビジネスを支えるコアシステムから、高い競争力を生み出すアプリケーションに至るまで、幅広い提供を行っています。",
-        "ar": "توفر TIS مجموعة واسعة من العروض بدءًا من الأنظمة الأساسية التي تدعم الأعمال وحتى أدوات التطوير التي تولد قدرة تنافسية عالية.",
-        "de": "TIS bietet eine breite Palette von Angeboten, von Kernsystemen zur Geschäftsunterstützung bis hin zu Entwicklungstools, die eine hohe Wettbewerbsfähigkeit generieren.",
-        "es": "TIS ofrece una amplia gama de ofertas, desde sistemas centrales que respaldan las empresas hasta herramientas de desarrollo que generan alta competitividad.",
-        "fr": "TIS propose une large gamme d'offres, depuis les systèmes de base supportant les entreprises jusqu'aux outils de développement qui génèrent une forte compétitivité.",
-        "hi": "टीआईएस व्यवसाय को समर्थन देने वाले कोर सिस्टम से लेकर उच्च प्रतिस्पर्धात्मकता उत्पन्न करने वाले डेवटूल्स तक की पेशकश की एक विस्तृत श्रृंखला प्रदान करता है।",
-        "id": "TIS menyediakan beragam penawaran mulai dari sistem inti yang mendukung bisnis hingga alat pengembangan yang menghasilkan daya saing tinggi.",
-        "it": "TIS offre un'ampia gamma di offerte, dai sistemi core a supporto del business agli strumenti di sviluppo che generano elevata competitività.",
-        "ko": "TIS는 비즈니스를 지원하는 핵심 시스템부터 높은 경쟁력을 창출하는 개발 도구까지 광범위한 제품을 제공합니다.",
-        "pt": "A TIS oferece uma ampla gama de ofertas, desde sistemas principais de suporte aos negócios até ferramentas de desenvolvimento que geram alta competitividade.",
-        "ru": "TIS предлагает широкий спектр предложений: от базовых систем, поддерживающих бизнес, до инструментов разработки, обеспечивающих высокую конкурентоспособность.",
-        "th": "TIS นำเสนอข้อเสนอที่หลากหลายตั้งแต่ระบบหลักที่สนับสนุนธุรกิจไปจนถึงเครื่องมือพัฒนาที่สร้างความสามารถในการแข่งขันสูง",
-        "tr": "TIS, işletmeyi destekleyen temel sistemlerden, yüksek rekabet gücü yaratan geliştirme araçlarına kadar geniş bir yelpazede teklifler sunmaktadır.",
-        "vi": "TIS cung cấp nhiều dịch vụ đa dạng từ các hệ thống cốt lõi hỗ trợ doanh nghiệp đến các công cụ phát triển tạo ra khả năng cạnh tranh cao.",
-        "zh-CN": "TIS 提供广泛的产品，从支持业务的核心系统到产生高竞争力的开发工​​具。",
-        "zh-TW": "TIS 提供廣泛的產品，從支援業務的核心系統到產生高競爭力的開發工具。"
-      },
-      "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tis-icon.svg",
-      "url": "https://www.tis.com/group/"
     },
     {
       "name": {
@@ -2030,7 +2002,9 @@
         "zh-CN": "extra mile Inc. 是朝日电视台集团的一部分，旨在创造新的理念和服务，让生活变得愉快，社会变得便利",
         "zh-TW": "extra mile Inc. 是朝日電視台集團的一部分，旨在創造新的理念和服務，讓生活變得愉快，社會變得便利"
       },
-      "types": ["validator"],
+      "types": [
+        "validator"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/tv-asahi-icon.svg",
       "url": "https://company.tv-asahi.co.jp/"
     },
@@ -2073,52 +2047,11 @@
         "zh-CN": "热爱自然、热爱人文的直率艺术。京都艺术大学是日本最大的艺术大学，拥有超过 8,500 名学生。",
         "zh-TW": "熱愛大自然、熱愛人文的直率藝術。京都藝術大學是日本最大的藝術大學，擁有超過 8,500 名學生。"
       },
-      "types": ["validator"],
+      "types": [
+        "validator"
+      ],
       "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/kyoto-art-university-icon.svg",
       "url": "https://www.kyoto-art.ac.jp/"
-    },
-    {
-      "name": {
-        "en": "Pacific Meta",
-        "ja": "Pacific Meta",
-        "ar": "Pacific Meta",
-        "de": "Pacific Meta",
-        "es": "Pacific Meta",
-        "fr": "Pacific Meta",
-        "hi": "Pacific Meta",
-        "id": "Pacific Meta",
-        "it": "Pacific Meta",
-        "ko": "Pacific Meta",
-        "pt": "Pacific Meta",
-        "ru": "Pacific Meta",
-        "th": "Pacific Meta",
-        "tr": "Pacific Meta",
-        "vi": "Pacific Meta",
-        "zh-CN": "Pacific Meta",
-        "zh-TW": "Pacific Meta"
-      },
-      "description": {
-        "en": "Specializes in delivering extensive advisory and marketing services tailored for international Web3 projects in the Japanese and East Asian markets.",
-        "ja": "「Web3領域のアクセラレーター」として、国内外のWeb3プロジェクトを一気通貫で支援している会社です。",
-        "ar": "متخصص في تقديم خدمات استشارية وتسويقية واسعة النطاق مصممة خصيصًا لمشاريع Web3 الدولية في الأسواق اليابانية وشرق آسيا.",
-        "de": "Spezialisiert auf die Bereitstellung umfassender Beratungs- und Marketingdienstleistungen, die auf internationale Web3-Projekte auf dem japanischen und ostasiatischen Markt zugeschnitten sind.",
-        "es": "Se especializa en brindar amplios servicios de asesoría y marketing diseñados para proyectos Web3 internacionales en los mercados japonés y de Asia oriental.",
-        "fr": "Spécialisé dans la fourniture de services complets de conseil et de marketing adaptés aux projets Web3 internationaux sur les marchés japonais et d'Asie de l'Est.",
-        "hi": "जापानी और पूर्वी एशियाई बाजारों में अंतरराष्ट्रीय वेब3 परियोजनाओं के लिए तैयार की गई व्यापक सलाह और विपणन सेवाएं प्रदान करने में विशेषज्ञता।",
-        "id": "Mengkhususkan diri dalam memberikan layanan konsultasi dan pemasaran ekstensif yang disesuaikan untuk proyek Web3 internasional di pasar Jepang dan Asia Timur.",
-        "it": "È specializzato nella fornitura di servizi estesi di consulenza e marketing su misura per progetti Web3 internazionali nei mercati giapponese e dell'Asia orientale.",
-        "ko": "일본 및 동아시아 시장의 국제 Web3 프로젝트에 맞춰 광범위한 자문 및 마케팅 서비스를 전문적으로 제공합니다.",
-        "pt": "É especializada no fornecimento de amplos serviços de consultoria e marketing personalizados para projetos Web3 internacionais nos mercados japonês e do Leste Asiático.",
-        "ru": "Специализируется на предоставлении обширных консультационных и маркетинговых услуг, адаптированных для международных проектов Web3 на рынках Японии и Восточной Азии.",
-        "th": "เชี่ยวชาญในการให้บริการคำปรึกษาและการตลาดที่ครอบคลุมสำหรับโครงการ Web3 ระหว่างประเทศในตลาดญี่ปุ่นและเอเชียตะวันออก",
-        "tr": "Japonya ve Doğu Asya pazarlarındaki uluslararası Web3 projelerine özel kapsamlı danışmanlık ve pazarlama hizmetleri sunma konusunda uzmanlaşmıştır.",
-        "vi": "Chuyên cung cấp các dịch vụ tư vấn và tiếp thị chuyên sâu phù hợp với các dự án Web3 quốc tế tại thị trường Nhật Bản và Đông Á.",
-        "zh-CN": "专门为日本和东亚市场的国际 Web3 项目提供广泛的咨询和营销服务。",
-        "zh-TW": "專門為日本和東亞市場的國際 Web3 專案提供廣泛的諮詢和行銷服務。"
-      },
-      "types": ["validator"],
-      "image": "https://raw.githubusercontent.com/gu-corp/joc-resources/main/ecosystem/assets/pacific-meta-icon.svg",
-      "url": "https://pacific-meta.co.jp/"
     }
   ]
 }
